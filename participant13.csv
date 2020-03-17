@@ -1,0 +1,58 @@
+"tag","timeStamp","duration"
+"NA","00:00","0"
+"DST_One_Window_start","13:20","54"
+"Benton_One_Window_start","14:20","24"
+"DST_Red_Classroom_start","15:18","0:16:06, 0:16:11"
+"DST_Red_Classroom_Incorrect","16:06","1"
+"DST_Red_Classroom_Incorrect","16:11","1"
+"Benton_Red_Classroom_start","16:19",NA
+"DST_Two_Windows_start","17:23","18:11, 18:16, 18:17"
+"DST_Two_Windows_Incorrect","18:11","1"
+"DST_Two_Windows_Incorrect","18:16","1"
+"DST_Two_Windows_Incorrect","18:17","1"
+"Benton_Two_Windows_start","18:27","18:29"
+"Benton_Two_Windows_Incorrect","18:29","1"
+"DST_Blue_Classroom_start","19:20","205, 213"
+"DST_Blue_Classroom_Incorrect","20:05","1"
+"DST_Blue_Classroom_Incorrect","20:13","1"
+"Benton_Blue_Classroom_start","20:21",NA
+"DST_With_Teacher_start","21:31","0:22:17"
+"DST_With_Teacher_Incorrect","22:17","1"
+"Benton_With_Teacher_start","22:31",NA
+"Stroop_Blue_Classroom_start","35:05",NA
+"PST_Blue_Classroom_start","35:45",NA
+"VMT_Blue_Classroom_start","36:09","36:15"
+"VMT_Blue_Classroom_Incorrect","36:15","1"
+"PST_One_Window_start","37:34","15"
+"PST_One_Window_Incorrect","37:47","1"
+"VMT_One_Window_start","37:57","28"
+"VMT_One_Window_Incorrect","38:15","1"
+"Stroop_Two_Windows_start","40:37",NA
+"PST_Two_Windows_start","41:14",NA
+"VMT_Two_Windows_start","41:38",NA
+"PST_With_Teacher_start","43:04",NA
+"VMT_With_Teacher_start","43:27",NA
+"Stroop_Red_Classroom_start","46:07","0:46:18, 0:46:19, 0:46:33"
+"Stroop_Red_Classroom_Incorrect","46:18","1"
+"Stroop_Red_Classroom_Incorrect","46:19","1"
+"Stroop_Red_Classroom_Incorrect","46:33","1"
+"PST_Red_Classroom_start","46:45",NA
+"VMT_Red_Classroom_start","47:07",NA
+"Stroop 36:57_One_Window_start",NA,"26"
+"DST_One_Window_Incorrect",NA,"1"
+"Benton_One_Window_Incorrect",NA,"1"
+"Stroop_One_Window_Incorrect",NA,"1"
+"Stroop_Two_Windows_Incorrect",NA,"1"
+"PST_Two_Windows_Incorrect",NA,"1"
+"VMT:_Two_Windows_Incorrect",NA,"1"
+"Benton_Blue_Classroom_Incorrect",NA,"1"
+"Stroop_Blue_Classroom_Incorrect",NA,"1"
+"PST_Blue_Classroom_Incorrect",NA,"1"
+"Benton_Red_Classroom_Incorrect",NA,"1"
+"PST_Red_Classroom_Incorrect",NA,"1"
+"VMT:_Red_Classroom_Incorrect",NA,"1"
+"Stroop 42:27_With_Teacher_start",NA,NA
+"Benton_With_Teacher_Incorrect",NA,"1"
+"Stroop_With_Teacher_Incorrect",NA,"1"
+"PST_With_Teacher_Incorrect",NA,"1"
+"VMT:_With_Teacher_Incorrect",NA,"1"
