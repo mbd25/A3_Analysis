@@ -62,7 +62,7 @@ for(j in 1:dim(participant)[2]){
 eegTags <- eegTags[order(eegTags$timeStamp),]
 
 filename = paste("/participant",pnumber,".csv",sep="")
-write.csv(eegTags, paste("~/Desktop/participant",pnumber,".csv",sep=""), row.names = FALSE)
+write.csv(eegTags, paste("/Users/mdarfler/Google\ Drive/Grad\ School/Spring\ 2020/Lab/A3_Analysis/EEG\ Tag\ Sheets",pnumber,".csv",sep=""), row.names = FALSE)
 }
 ```
 ```{r}
@@ -114,7 +114,7 @@ for(j in 1:dim(participant)[2]){
 eegTags <- eegTags[order(eegTags$timeStamp),]
 
 filename = paste("/participant",pnumber,".csv",sep="")
-write.csv(eegTags, paste("~/Desktop/participant",pnumber,".csv",sep=""), row.names = FALSE)
+write.csv(eegTags, paste("/Users/mdarfler/Google\ Drive/Grad\ School/Spring\ 2020/Lab/A3_Analysis/EEG\ Tag\ Sheets",pnumber,".csv",sep=""), row.names = FALSE)
 }
 ```
 
