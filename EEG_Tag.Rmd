@@ -4,6 +4,10 @@ output: html_notebook
 ---
 
 ```{r}
+# install.packages("xlsx")
+# install.packages("rJava")
+```
+```{r}
 library(readr)
 library(dplyr)
 data <- read_csv("A3 Accuracy Analysis - A3 Accuracy.csv")
@@ -16,21 +20,19 @@ participant = subset(data_clean,data_clean$X1 == pnumber);
 
 eegTags = data.frame("tag" = "NA", "timeStamp" = "00:00","duration" = 0, stringsAsFactors = FALSE)
 
-for(j in 1:dim(p6)[2]){
+for(j in 1:dim(participant)[2]){
   workingCondition <- participant[j,]
   st <- strsplit(unlist(strsplit(workingCondition$`Start Time`,"\n")),": ")
   incorrect <- strsplit(unlist(strsplit(workingCondition$`Timepoints for Incorrect Answers`,"\n")),": ")
   duration <- strsplit(unlist(strsplit(workingCondition$`Duration`,"\n")),": ")
-  
-  flatStart <- strsplit(unlist(strsplit(working,"\n")),": ")
 
-  condition <- gsub(" ","_",p6$Condition[j])
-  tagEnd = paste(condition,"start",sep = "_")
+  condition <- gsub(" ","_",participant$Condition[j])
+  tagEnd = paste(condition,"Start",sep = "_")
   
   
   for(i in 1:length(st)){
     tag = paste(st[[i]][1],tagEnd,sep="_")
-    st_temp = st[[i]][2]
+    st_temp = paste("00:",st[[i]][2],sep="")
     d = duration[[i]][2]
     l = list(tag,st_temp,d)
     eegTags <-  rbind(eegTags,l)
@@ -50,7 +52,7 @@ for(j in 1:dim(p6)[2]){
   for(i in seq(1,length(flatIncorrect),2)){
     tag = paste(flatIncorrect[[i]],tagEnd,sep="_")
     for(k in 1:length(flatIncorrect[[i+1]])){
-      incorrectTime = flatIncorrect[[i+1]][k]
+      incorrectTime = paste("00:",flatIncorrect[[i+1]][k],sep="")
       l <- list(tag,incorrectTime,1)
       eegTags <- rbind(eegTags,l)
     }
@@ -70,15 +72,13 @@ participant = subset(data_clean,data_clean$X1 == pnumber);
 
 eegTags = data.frame("tag" = "NA", "timeStamp" = "00:00","duration" = 0, stringsAsFactors = FALSE)
 
-for(j in 1:dim(p6)[2]){
+for(j in 1:dim(participant)[2]){
   workingCondition <- participant[j,]
   st <- strsplit(unlist(strsplit(workingCondition$`Start Time`,"\n")),": ")
   incorrect <- strsplit(unlist(strsplit(workingCondition$`Timepoints for Incorrect Answers`,"\n")),": ")
   duration <- strsplit(unlist(strsplit(workingCondition$`Duration`,"\n")),": ")
-  
-  flatStart <- strsplit(unlist(strsplit(working,"\n")),": ")
 
-  condition <- gsub(" ","_",p6$Condition[j])
+  condition <- gsub(" ","_",participant$Condition[j])
   tagEnd = paste(condition,"start",sep = "_")
   
   
