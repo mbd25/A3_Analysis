@@ -10,7 +10,7 @@ output: html_notebook
 ```{r}
 library(readr)
 library(dplyr)
-data <- read_csv("Users/mdarfler/Google\ Drive/Grad\ School/DAIL/A3\ Behavior\ Data\ Analysis/A3_Analysis_Code_Repo/A3 Accuracy Analysis - A3 Accuracy.csv")
+data <- read_csv("A3 Accuracy Analysis - A3 Accuracy.csv")
 ```
 ```{r}
 data_clean <- select(data,'X1','Condition','Start Time','Timepoints for Incorrect Answers','Duration')
@@ -62,7 +62,7 @@ for(j in 1:dim(participant)[2]){
 eegTags <- eegTags[order(eegTags$timeStamp),]
 
 filename = paste("/participant",pnumber,".csv",sep="")
-write.csv(eegTags, paste("/Users/mdarfler/Google\ Drive/Grad\ School/DAIL/A3\ Behavior\ Data\ Analysis/A3_Analysis_Code_Repo/EEG\ Tag\ Sheets",pnumber,".csv",sep=""), row.names = FALSE)
+write.csv(eegTags, paste("/Users/mdarfler/Google\ Drive/Grad\ School/DAIL/A3\ Behavior\ Data\ Analysis/A3_Analysis_Code_Repo/EEG\ Tag\ Sheets/participant",pnumber,".csv",sep=""), row.names = FALSE)
 }
 ```
 ```{r}
@@ -114,7 +114,7 @@ for(j in 1:dim(participant)[2]){
 eegTags <- eegTags[order(eegTags$timeStamp),]
 
 filename = paste("/participant",pnumber,".csv",sep="")
-write.csv(eegTags, paste("/Users/mdarfler/Google\ Drive/Grad\ School/DAIL/A3\ Behavior\ Data\ Analysis/A3_Analysis_Code_Repo/EEG\ Tag\ Sheets",pnumber,".csv",sep=""), row.names = FALSE)
+write.csv(eegTags, paste("/Users/mdarfler/Google\ Drive/Grad\ School/DAIL/A3\ Behavior\ Data\ Analysis/A3_Analysis_Code_Repo/EEG\ Tag\ Sheets/participant",pnumber,".csv",sep=""), row.names = FALSE)
 }
 ```
 
