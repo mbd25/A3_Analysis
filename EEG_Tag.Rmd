@@ -14,7 +14,7 @@ library(dplyr)
 # library(rJava)
 # library(xlsxjars)
 # library(xlsx)
-data <- read_csv("A3 Accuracy Analysis - A3 Accuracy.csv")
+data <- read_csv("A3 Accuracy Analysis - A3 Accuracy Corrected.csv")
 ```
 ```{r}
 data_clean <- select(data,'X1','Condition','Start Time','Timepoints for Incorrect Answers','Duration')
@@ -83,7 +83,7 @@ for(j in 1:dim(participant)[2]){
   duration <- strsplit(unlist(strsplit(workingCondition$`Duration`,"\n")),": ")
 
   condition <- gsub(" ","_",participant$Condition[j])
-  tagEnd = paste(condition,"start",sep = "_")
+  tagEnd = paste(condition,"Start",sep = "_")
   
   
   for(i in 1:length(st)){
