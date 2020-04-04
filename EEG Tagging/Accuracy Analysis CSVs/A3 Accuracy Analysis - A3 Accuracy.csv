@@ -1,0 +1,3637 @@
+,EEG Filename,Video Filename,Dataset,Test Number,Condition,DST (out of 21) # of Correct Answers,Benton (out of 4) # of Correct Answers,1st Mental Fatigue,1st Stress,Stroop # of Correct Answers,PST # of Correct Answers,VMT (out of 22) # of Correct Answers,2nd Mental Fatigue,2nd Stress,Overall ,Accuracy,Start Time,Timepoints for Incorrect Answers,Duration,Stroop out of (Total trials),PST out of (Total trials),DST (7) [Longest sequence correct],VMT (7) [Longest sequence correct],Overall (vary),Accuracy,Person in Charge,Completed
+6,,subject06_Desktop 2018.08.03 - 16.21.39.01,,,One Window,17,4,7,7,19,3,20,5,7,63,0.9,"DST: 18:47
+Benton: 20:03
+Stroop: 29:47
+PST: 30:27
+VMT: 30:51","DST: 19:25, 19:27, 19:39, 19:53
+Benton: all correct
+Stroop: all correct
+PST: all correct
+VMT: 30:59, 31:22","DST: 67
+Benton: 20
+Stroop: 26
+PST: 15
+VMT: 38",19,3,5,7,38,0.95,Elita,Completed
+6,,,,,Two Windows,17,4,10,10,20,2,18,4,10,61,0.8591549296,"DST: 24:51
+Benton: 26:02
+Stroop: 35:28 
+PST: 36:06
+VMT: 36:28","DST: 25:36, 25:38, 25:50, 25:50
+Benton: all correct
+Stroop: 35:43 
+PST: all correct
+VMT: 36:33, 36:33, 36:51, 37:02","DST: 63
+Benton: 24
+Stroop: 26
+PST: 16
+VMT: 37",21,2,6,4,36,0.8780487805,Elita,Completed
+6,,,,,Blue Classroom,20,3,7,7,14,2,21,1,6,60,0.9230769231,"DST: 16:50
+Benton: 17:57
+Stroop: 27:53
+PST: 28:33
+VMT: 28:54","DST: 17:50
+Benton: 18:09
+Stroop: 28:05
+PST: all correct
+VMT: 29:06","DST: 61
+Benton: 25
+Stroop: 27
+PST: 15
+VMT: 35",15,2,6,7,32,0.9142857143,Elita,Completed
+6,,,,,Red Classroom,18,4,9,9,12,3,22,3,10,59,0.8939393939,"DST: 22:46
+Benton: 24:04
+Stroop: 39:15
+PST: 39:53
+VMT: 40:15","DST: 23:28, 23:37, 23:56
+Benton: all correct
+Stroop: 39:21, 39:25, 39:36
+PST: all correct
+VMT: all correct","DST: 72
+Benton: 27
+Stroop: 27
+PST: 15
+VMT: 33",15,3,5,7,31,0.8611111111,Elita,Completed
+6,,,,,With Teacher,14,4,5,6,17,4,22,3,8,61,0.884057971,"DST: 10:35
+Benton: 11:49
+Stroop: 31:45
+PST: 32:22
+VMT: 32:44","DST: 11:15, 11:16, 11:18, 11:29, 11:36, 11:39, 11:41
+Benton: all correct
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 68
+Benton: 29
+Stroop: 26
+PST: 15
+VMT: 32",17,4,5,7,37,0.9487179487,Elita,Completed
+6,,,,,No Windows-narrow,19,4,6,5,19,3,19,7,10,64,0.8888888889,"DST: 12:41
+Benton: 13:56
+Stroop: 43:02
+PST: 43:38
+VMT: 44:00","DST: 13:34, 13:49
+Benton: all correct
+Stroop: 43:10
+PST: 43:42
+VMT: 44:30, 44:34, 44:34","DST: 69
+Benton: 24
+Stroop: 26
+PST: 16
+VMT: 36",20,4,6,7,39,0.9285714286,Elita,Completed
+6,,,,,Green Classroom,19,4,7,6,7,2,20,4,10,52,0.8524590164,"DST: 14:49
+Benton: 16:03
+Stroop: 33:34
+PST: 34:16
+VMT: 34:38","DST: 15:46, 15:53
+Benton: all correct
+Stroop: 33:46, 33:51, 33:54, 34:00
+PST: all correct
+VMT: 34:47, 34:59","DST: 67
+Benton: 26
+Stroop: 27
+PST: 15
+VMT: 48",11,2,6,7,26,0.8387096774,Elita,Completed
+6,,,,,No Windows-wide,16,3,5,5,16,3,21,4,10,59,0.8676470588,"DST: 8:39
+Benton: 9:51
+Stroop: 37:26
+PST: 38:02
+VMT: 38:26","DST: 9:30, 9:37, 9:40, 9:42, 9:43
+Benton: 10:15
+Stroop: 37:51
+PST: all correct
+VMT: 38:46","DST: 66
+Benton: 24
+Stroop: 26
+PST: 16
+VMT: 22",17,3,6,7,35,0.9210526316,Elita,Completed
+6,,,,,"No Windows-wide, bar",17,3,8,8,18,4,17,N/A,10,59,0.8309859155,"DST: 20:42
+Benton: 21:59
+Stroop: 41:06
+PST: 41:43
+VMT: 42:08","DST: 20:50, 21:06, 21:40, 21:50
+Benton: 22:25
+Stroop: 41:11
+PST: all correct
+VMT: 42:27, 42:39, 42:41, 42:43","DST: 69
+Benton: 27
+Stroop: 26
+PST: 16
+VMT: 37",19,4,6,4,35,0.8536585366,Elita,Completed
+7,,subject07_Desktop 2018.08.04 - 15.37.37.02.mp4,,,One Window,16,4,2,2,24,5,20,1,3,69,0.8961038961,"DST: 20:42
+Benton: 21:59
+Stroop: 39:09
+PST: 39:45
+VMT: 40:07","DST: 21:22, 21:36, 21:37, 21:40, 21:48 
+Benton: all correct
+Stroop: all correct
+PST: all correct
+VMT: 40:24, 40:28","DST: 70
+Benton: 24
+Stroop: 25
+PST: 16
+VMT: 32",24,5,??,??,#VALUE!,#VALUE!,Sarah,Validation Needed
+7,,,,,Two Windows,16,4,2,2,18,3,22,4,1,63,0.9130434783,"DST: 14:30
+Benton: 15:45
+Stroop: 33:54
+PST: 34:32
+VMT: 34:54","DST: 14:53, 15:14, 15:25, 15:28, 15:32, 15:34
+Benton: all correct
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 68
+Benton: 22
+Stroop: 27
+PST: 15
+VMT: 26",18,3,??,7,#VALUE!,#VALUE!,Sarah,Validation Needed
+7,,,,,Blue Classroom,15,4,2,2,25,5,22,4,4,71,0.9102564103,"DST: 22:43
+Benton: 24:01
+Stroop: 42:48
+PST: 43:25
+VMT: 43:47","DST: 23:03, 23:04, 23:23, 23:24, 23:48, 23:50 
+Benton: all correct
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 61
+Benton: 40
+Stroop: 26
+PST: 15
+VMT: 25",25,5,??,7,#VALUE!,#VALUE!,Sarah,Validation Needed
+7,,,,,Red Classroom,5,4,1,2,14,3,22,8,1,48,0.7384615385,"DST: 12:34
+Benton: 13:42
+Stroop: 32:14
+PST: 32:51
+VMT: 33:14","DST: 12:40, 12:41, 12:43, 12:52, 12:53, 12:55, 12:58, 13:09, 13:11, 13:12, 13:14, 13:15, 13:28, 13:30, 13:31, 13:32, 13:33
+Benton: all correct
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 60
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 28",14,3,??,7,#VALUE!,#VALUE!,Sarah,Validation Needed
+7,,,,,With Teacher,14,4,2,3,23,5,22,10,4,68,0.8947368421,"DST: 26:59
+Benton: 28:20
+Stroop: 41:02
+PST: 41:39
+VMT: 42:05","DST: 27:42, 27:46, 27:49, 28:05, 28:06, 28:08, 28:09, 28:10 
+Benton: all correct
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 73
+Benton: 41
+Stroop: 26
+PST: 26
+VMT: 27",23,5,??,7,#VALUE!,#VALUE!,Sarah,Validation Needed
+7,,,,,No Windows-narrow,13,4,2,2,21,3,22,10,2,63,0.8630136986,"DST: 10:37
+Benton: 11:42
+Stroop: 37:24
+PST: 38:02
+VMT: 38:24","DST: 11:09, 11:10, 11:11, 11:14, 11:25, 11:27, 11:29, 11:30, 11:32
+Benton: all correct
+Stroop: 37:43
+PST: all correct
+VMT: all correct","DST: 59
+Benton: 24
+Stroop: 25
+PST: 15
+VMT: 27",22,3,??,7,#VALUE!,#VALUE!,Sarah,Validation Needed
+7,,,,,Green Classroom,20,4,1,1,9,4,22,3,3,59,0.9076923077,"DST: 24:58
+Benton: 26:08
+Stroop: 35:34
+PST: 36:11
+VMT: 36:35","DST: 25:40, 25:58
+Benton: all correct
+Stroop: 35:41, 35:43, 35:44, 35:50 
+PST: all correct
+VMT: all correct","DST: 62
+Benton: 26
+Stroop: 26
+PST: 15
+VMT: 28",13,4,??,7,#VALUE!,#VALUE!,Sarah,Validation Needed
+7,,,,,No Windows-wide,14,3,2,2,23,2,22,5,3,64,0.8533333333,"DST: 18:43
+Benton: 19:52
+Stroop: 44:26
+PST: 45:04
+VMT: 45:26
+","DST: 19:04, 19:07, 19:21, 19:24, 19:25, 19:40, 19:43
+Benton: 19:56
+Stroop: all correct
+PST: 45:07, 45:14
+VMT: all correct","DST: 61
+Benton: 32
+Stroop: 26
+PST: 15
+VMT: 30
+",23,4,??,7,#VALUE!,#VALUE!,Sarah,Validation Needed
+7,,,,,"No Windows-wide, bar",15,3,2,2,15,3,22,2,1,58,0.8787878788,"DST: 16:25
+Benton: 17:52
+Stroop: 30:27
+PST: 31:05
+VMT: 31:28","DST: 17:09, 17:13, 17:33, 17:39, 17:40, 17:42, 17:43 
+Benton: 18:21
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 81
+Benton: 30
+Stroop: 27
+PST: 15
+VMT: 27",15,3,??,7,#VALUE!,#VALUE!,Sarah,Validation Needed
+8,,,,,One Window,,,,,,,,7,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Emme,Incomplete Data  Set
+8,,,,,Two Windows,,,,,,,,6,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Emme,In Progress
+8,,,,,Blue Classroom,,,,,,,,8,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Emme,In Progress
+8,,,,,Red Classroom,,,,,,,,5,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Emme,In Progress
+8,,,,,With Teacher,,,,,,,,7,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Emme,In Progress
+8,,,,,No Windows-narrow,,,,,,,,4,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Emme,In Progress
+8,,,,,Green Classroom,,,,,,,,N/A,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Emme,In Progress
+8,,,,,No Windows-wide,,,,,,,,3,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Emme,In Progress
+8,,,,,"No Windows-wide, bar",,,,,,,,2,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Emme,In Progress
+9,,,,,One Window,19,4,3,2,21,4,22,9,3,70,0.9589041096,"DST: 18:59
+Benton: 19:59
+Stroop: 31:28
+PST: 32:05
+VMT: 32:29","DST: 19:40, 19:49
+Benton: 
+Stroop:
+PST:
+VMT:","DST: 52
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 26",21,4,5,7,41,0.9534883721,Heley,Completed
+9,,,,,Two Windows,17,4,3,2,26,2,22,N/A,2,71,0.9342105263,"DST: 14:50
+Benton: 16:03
+Stroop: 33:18
+PST: 33:52
+VMT: 34:10","DST: 15:41, 15:52, 15:54, 15:55
+Benton:
+Stroop: 
+PST:
+VMT:","DST: 62
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 32",26,2,5,7,44,0.9565217391,Heley,Completed
+9,,,,,Blue Classroom,19,4,2,2,25,2,22,1,2,72,0.9473684211,"DST: 22:40
+Benton: 23:41
+Stroop: 34:58
+PST: 35:35
+VMT: 36:00","DST: 23:25, 23:33
+Benton:
+Stroop:
+PST: 35:50
+VMT:","DST: 55
+Benton: 36
+Stroop: 26
+PST: 16
+VMT: 26",25,3,5,7,43,0.9347826087,Heley,Completed
+9,,,,,Red Classroom,19,4,3,2,22,4,22,1,4,71,0.9466666667,"DST: 20:43
+Benton: 21:51
+Stroop:41:52
+PST: 42:28
+VMT: 42:52","DST: 21:31, 21:40
+Benton:
+Stroop: 42:01
+PST:
+VMT:","DST: 62
+Benton: 26
+Stroop: 26
+PST: 16
+VMT: 26",23,4,5,7,42,0.9333333333,Heley,Completed
+9,,,,,With Teacher,20,4,2,2,25,5,21,7,4,75,0.9493670886,"DST: 12:48
+Benton: 13:54
+Stroop: 43:29
+PST: 44:06
+VMT: 44:28","DST: 13:37
+Benton:
+Stroop:
+PST: 44:10
+VMT: 44:54","DST: 62
+Benton: 26
+Stroop: 27
+PST: 16
+VMT: 26",25,6,7,7,48,0.9795918367,Heley,Completed
+9,,,,,No Windows-narrow,19,4,3,2,20,3,22,2,3,68,0.9444444444,"DST: 16:49
+Benton: 17:57
+Stroop: 29:41
+PST: 30:17
+VMT: 30:39","DST: 17:37, 17:48
+Benton: 
+Stroop:
+PST: 30:28
+VMT:","DST: 61
+Benton: 35
+Stroop: 26
+PST: 16
+VMT: 29",20,4,5,7,39,0.9285714286,Heley,Completed
+9,,,,,Green Classroom,17,4,3,3,12,5,22,4,3,60,0.8823529412,"DST: 26:45
+Benton: 27:49
+Stroop: 36:37
+PST: 37:13
+VMT: 37:36","DST: 27:31, 27:36, 27:40, 27:40
+Benton: 
+Stroop: 36:47, 36:53, 36:58
+PST:
+VMT:","DST: 57
+Benton: 28
+Stroop: 26
+PST: 15
+VMT: 26",15,5,5,7,33,0.8684210526,Heley,Completed
+9,,,,,No Windows-wide,19,4,2,2,24,5,21,2,3,73,0.9480519481,"DST: 24:43
+Benton: 25:55
+Stroop: 38:17
+PST: 38:53
+VMT: 39:17","DST: 25:37, 25:45
+Benton: 
+Stroop:
+PST:
+VMT: 39:36","DST: 64
+Benton: 28
+Stroop: 28
+PST: 16
+VMT: 28",24,5,5,7,45,0.9574468085,Heley,Completed
+9,,,,,"No Windows-wide, bar",19,4,2,2,27,3,22,3,3,75,0.9615384615,"DST: 10:45
+Benton: 11:47
+Stroop: 40:05
+PST: 40:44
+VMT: 41:09","DST: 11:33, 11:41
+Benton: 
+Stroop: 
+PST:
+VMT:","DST: 60
+Benton: 26
+Stroop: 26
+PST: 15
+VMT: 26",27,3,5,7,46,0.9583333333,Heley,Completed
+10,,,,,One Window,7,4,5,4,,,,5,,11,0.2291666667,"DST: 12:28
+Benton: 13:40
+Stroop:
+PST:
+VMT:","DST: 12:52, 12:53, 13:03, 13:04, 13:05, 13:06, 13:08, 13:20, 13:26, 13:27, 13:28, 13:29, 13:30, 13:30
+Benton:
+Stroop:
+PST:
+VMT:","DST: 63
+Benton: 21
+Stroop:
+PST:
+VMT:",,,6,,10,0.5555555556,Kelly,Incomplete Data  Set
+10,,,,,Two Windows,,,,,,,,4,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Kelly,Incomplete Data  Set
+10,,,,,Blue Classroom,,,,,,,,7,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Kelly,Incomplete Data  Set
+10,,,,,Red Classroom,,,,,,,,4,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Kelly,Incomplete Data  Set
+10,,,,,With Teacher,,,,,,,,4,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Kelly,Incomplete Data  Set
+10,,,,,No Windows-narrow,,,,,,,,5,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Kelly,Incomplete Data  Set
+10,,,,,Green Classroom,16,,,,,,,N/A,,16,0.3333333333,"DST: 14:32
+Benton: 15:49
+Stroop:
+PST:
+VMT:","DST: 15:26, 15:31, 15:35, 15:38, 15:39 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 71
+Benton:
+Stroop:
+PST:
+VMT:",,,14,,14,0.7777777778,Kelly,Incomplete Data  Set
+10,,,,,No Windows-wide,14,4,4,3,,,,4,,18,0.375,"DST: 10:09
+Benton: 11:33
+Stroop:
+PST:
+VMT:","DST: 10:33, 10:40, 10:44, 10:45, 10:57, 11:17, 11:25
+Benton: 
+Stroop:
+PST:
+VMT:","DST: 75
+Benton: 25
+Stroop:
+PST:
+VMT:",,,6,,10,0.5555555556,Kelly,Incomplete Data  Set
+10,,,,,"No Windows-wide, bar",,,,,,,,1,,0,0,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",,,,,0,0,Kelly,Incomplete Data  Set
+11,,,,,One Window,9,4,3,7,25,4,21,9,1,63,0.8181818182,"DST: 25:01
+Benton: 26:06
+Stroop: 40:01
+PST: 40:39
+VMT: 41:00","DST: 25:17, 25:18, 25:20, 25:33, 25:34, 25:35, 25:36, 25:53, 25:54, 25:56, 25:58
+Benton: NA
+Stroop: NA
+PST: NA
+VMT: 41:15","DST: 58
+Benton: 25
+Stroop: 27
+PST: 15
+VMT: 23",25,4,4,7,44,0.9361702128,Jasmine,Completed
+11,,,,,Two Windows,15,4,2,2,20,3,22,N/A,2,64,0.9014084507,"DST: 20:14
+Benton: 21:10
+Stroop: 28:52
+PST: 29:29
+VMT: 29:50","DST: 20:31, 20:47, 20:57, 20:59, 21:02
+Benton: NA
+Stroop: NA
+PST: NA
+VMT: NA","DST: 50
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 22",20,3,5,7,39,0.9512195122,Jasmine,Completed
+11,,,,,Blue Classroom,15,4,2,2,18,2,22,8,1,61,0.884057971,"DST: 16:54
+Benton: 17:51
+Stroop: 36:41
+PST: 37:18
+VMT: 37:40","DST: 17:23, 17:25, 17:26, 17:30, 17,43, 17:44
+Benton: NA
+Stroop: NA
+PST: 37:22
+VMT: NA","DST: 51
+Benton: 25
+Stroop: 27
+PST: 15
+VMT: 20",18,3,5,7,36,0.9230769231,Jasmine,Completed
+11,,,,,Red Classroom,16,4,3,2,8,3,22,10,2,53,0.8548387097,"DST: 21:48
+Benton: 22:43
+Stroop: 30:27
+PST: 31:04
+VMT: 31:26","DST: 22:18, 22:19, 22:34, 22:35, 22:36
+Benton: NA
+Stroop: 30:32, 30:40, 30:41
+PST: NA
+VMT: NA","DST: 68
+Benton: 20
+Stroop: 27
+PST: 16
+VMT: 20",11,3,5,7,27,0.84375,Jasmine,Completed
+11,,,,,With Teacher,10,4,2,2,18,5,22,1,2,59,0.8309859155,"DST: 15:07
+Benton: 16:08
+Stroop: 41:40
+PST: 42:19
+VMT: 42:40","DST: 15:25, 15:26, 15:28, 15:29, 15:44, 15:47, 15:57, 15:58, 15:59, 16:00, 16:01
+Benton: NA
+Stroop: NA
+PST: NA
+VMT: NA","DST: 54
+Benton: 26
+Stroop: 28
+PST: 15
+VMT: 25",18,5,4,7,38,0.9268292683,Jasmine,Completed
+11,,,,,No Windows-narrow,15,4,2,2,26,2,22,3,1,69,0.8961038961,"DST: 11:52
+Benton: 12:53
+Stroop: 38:29
+PST: 39:06
+VMT: 39:28","DST: 12:22, 12:35, 12:41, 12:42, 12:44, 12:46
+Benton: NA
+Stroop: NA
+PST: 39:14
+VMT: NA","DST: 58
+Benton: 24
+Stroop: 27
+PST: 16
+VMT: 22",26,3,5,7,44,0.9361702128,Jasmine,Completed
+11,,,,,Green Classroom,19,4,2,2,6,4,21,4,2,54,0.8181818182,"DST: 13:37
+Benton: 14:28
+Stroop: 32:01
+PST: 32:28
+VMT: 33:00","DST: 14:19, 14:21
+Benton: NA
+Stroop: 32:02, 32:09, 32:11, 32:14, 32:19, 32:23, 32:24, 32:25 
+PST: NA
+VMT: 33:20","DST: 45
+Benton: 18
+Stroop: 26
+PST: 25
+VMT: 22",14,4,5,7,26,0.7222222222,Jasmine,Completed
+11,,,,,No Windows-wide,16,4,2,2,28,4,22,10,2,74,0.925,"DST: 18:32
+Benton: 19:31
+Stroop: 35:07
+PST: 35:45
+VMT: 36:06","DST: 19:03, 19:04, 19:05, 19:21, 19:24
+Benton: NA
+Stroop: NA
+PST: NA
+VMT: NA","DST: 53
+Benton: 25
+Stroop: 27
+PST: 15
+VMT: 21",28,4,5,7,48,0.96,Jasmine,Completed
+11,,,,,"No Windows-wide, bar",15,4,2,2,23,4,22,2,2,68,0.8947368421,"DST: 23:20
+Benton: 24:14
+Stroop: 33:36
+PST: 34:12
+VMT: 34:34","DST: 23:52, 24:03, 24:04, 24:05, 24:06
+Benton: NA
+Stroop: NA
+PST: 34:23
+VMT: NA","DST: 48
+Benton: 27
+Stroop: 25
+PST: 25
+VMT: 21",23,5,5,7,43,0.9347826087,Jasmine,Completed
+12,,,,,One Window,20,4,2,1,28,3,22,1,1,77,0.9746835443,"DST: 23:07
+Benton: 24:10
+Stroop: 43:22
+PST: 43:59
+VMT: 44:21","DST: 23:52, 24:02
+Benton:
+Stroop:
+PST:
+VMT:","DST: 56
+Benton: 20
+Stroop: 25
+PST: 15
+VMT: 26",28,3,5,7,47,0.9591836735,Elita,Completed
+12,,,,,Two Windows,16,4,4,1,27,5,21,N/A,7,73,0.9125,"DST: 26:36
+Benton: 27:48
+Stroop: 29:30
+PST: 30:07
+VMT: 30:29","DST: 26:59, 27:02, 27:29, 27:35, 27:37, 27:41
+Benton:
+Stroop:
+PST:
+VMT: 30:48","DST: 66
+Benton: 19
+Stroop: 27
+PST: 15
+VMT: 30",27,5,4,7,47,0.94,Elita,Completed
+12,,,,,Blue Classroom,16,4,2,3,23,4,22,6,1,69,0.92,"DST: 13:52
+Benton: 15:04
+Stroop: 34:46
+PST: 35:24
+VMT: 35:46","DST: 14:15, 14:16, 14:26, 14:36, 14:47, 14:56
+Benton:
+Stroop:
+PST:
+VMT:","DST: 66
+Benton: 28
+Stroop: 27
+PST: 16
+VMT: 28",23,4,4,7,42,0.9333333333,Elita,Completed
+12,,,,,Red Classroom,19,4,2,3,10,3,22,3,1,58,0.90625,"DST: 11:50
+Benton: 13:05
+Stroop: 31:22
+PST: 31:59
+VMT: 32:21","DST: 12:26, 12:30, 12:42
+Benton:
+Stroop: 31:28, 31:36, 31:40
+PST:
+VMT:","DST: 68
+Benton: 27
+Stroop: 27
+PST: 16
+VMT: 31",13,3,5,7,29,0.8529411765,Elita,Completed
+12,,,,,With Teacher,19,4,2,2,18,4,22,2,1,67,0.9178082192,"DST: 17:36
+Benton: 18:43
+Stroop: 38:11
+PST: 38:48
+VMT: 39:09","DST: 18:15, 18:29, 18:36
+Benton:
+Stroop: 38:15, 38:21, 38:29
+PST:
+VMT:","DST: 61
+Benton: 31
+Stroop: 26
+PST: 15
+VMT: 28",21,4,5,7,38,0.8837209302,Elita,Completed
+12,,,,,No Windows-narrow,16,3,4,1,24,4,22,2,1,69,0.8961038961,"DST: 21:20
+Benton: 22:25
+Stroop: 33:06
+PST: 33:43
+VMT: 34:05","DST: 21:37, 21:56, 22:08, 22:15, 22:16
+Benton: 22:42
+Stroop: 33:28
+PST:
+VMT:","DST: 58
+Benton: 24
+Stroop: 27
+PST: 15
+VMT: 30",25,4,5,7,43,0.914893617,Elita,Completed
+12,,,,,Green Classroom,20,4,1,1,15,5,21,1,1,65,0.8904109589,"DST: 15:49
+Benton: 16:50
+Stroop: 36:27
+PST: 37:04
+VMT: 37:26","DST: 16:32, 16:43
+Benton:
+Stroop: 36:37, 36:40, 36:51, 36:52, 36:53
+PST:
+VMT: 37:53","DST: 55
+Benton: 28
+Stroop: 27
+PST: 15
+VMT: 30",20,5,5,7,36,0.8372093023,Elita,Completed
+12,,,,,No Windows-wide,17,4,3,2,20,2,20,10,1,63,0.9,"DST: 19:33
+Benton: 20:39
+Stroop: 39:48
+PST: 40:25
+VMT: 40:47","DST: 19:53, 19:54, 19:55, 20:23, 20:30
+Benton:
+Stroop:
+PST:
+VMT: 41:06, 41:16","DST: 58
+Benton: 26
+Stroop: 27
+PST: 15
+VMT: 34",20,2,4,4,34,0.85,Elita,Completed
+12,,,,,"No Windows-wide, bar",18,4,3,1,22,3,21,1,1,68,0.9189189189,"DST: 24:49
+Benton: 25:54
+Stroop: 41:36
+PST: 42:13
+VMT: 42:34","DST: 25:35, 25:39, 25:44, 25:45, 25:47
+Benton:
+Stroop:
+PST: 42:18
+VMT: 43:03","DST: 58
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 33",22,4,5,7,41,0.9318181818,Elita,Completed
+13,,subject13 - Desktop 2018.08.08 - 13.42.44.01,,,One Window,22,4,3,4,26,2,21,6,2,75,0.974025974,"DST: 13:20
+Benton: 14:20
+Stroop 36:57
+PST: 37:34
+VMT: 37:57","DST: 
+Benton: 
+Stroop: 
+PST: 37:47
+VMT: 38:15","DST: 54
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 28",26,3,7,7,46,0.9787234043,Nina,Completed
+13,,,,,Two Windows,19,3,3,3,24,3,22,2,2,71,0.9466666667,"DST: 17:23
+Benton: 18:27
+Stroop: 40:37
+PST: 41:14
+VMT: 41:38","DST: 18:11, 18:16, 18:17
+Benton: 18:29
+Stroop: 
+PST: 
+VMT: ","DST: 18:11, 18:16, 18:17
+Benton: 18:29
+Stroop: 
+PST: 
+VMT: ",24,3,5,7,42,0.9333333333,Nina,Completed
+13,,,,,Blue Classroom,20,4,4,3,21,1,21,7,2,67,0.9571428571,"DST: 19:20
+Benton: 20:21
+Stroop: 35:05
+PST: 35:45
+VMT: 36:09","DST: 20:05, 20:13
+Benton: 
+Stroop: 
+PST: 
+VMT: 36:15","DST: 205, 213
+Benton: 
+Stroop: 
+PST: 
+VMT: 36:15",21,1,5,7,38,0.95,Nina,Completed
+13,,,,,Red Classroom,20,4,4,4,16,5,22,4,3,67,0.9305555556,"DST: 15:18
+Benton: 16:19
+Stroop: 46:07
+PST: 46:45
+VMT: 47:07","DST: 16:06, 16:11
+Benton: 
+Stroop: 46:18, 46:19, 46:33
+PST: 
+VMT: ","DST: 0:16:06, 0:16:11
+Benton: 
+Stroop: 0:46:18, 0:46:19, 0:46:33
+PST: 
+VMT: ",19,5,6,7,38,0.9047619048,Nina,Completed
+13,,,,,With Teacher,21,4,4,3,27,3,22,8,3,77,0.9871794872,"DST: 21:31
+Benton: 22:31
+Stroop 42:27
+PST: 43:04
+VMT: 43:27","DST: 22:17
+Benton: 
+Stroop: 
+PST: 
+VMT: ","DST: 0:22:17
+Benton: 
+Stroop: 
+PST: 
+VMT: ",27,3,7,7,48,1,Nina,Completed
+13,,,,,No Windows-narrow,22,4,3,5,21,4,22,2,2,73,0.9733333333,"DST: 10:54
+Benton: 11:54
+Stroop 44:13
+PST: 44:50
+VMT: 45:13","DST: 
+Benton: 
+Stroop: 0:44:25,  
+PST: 
+VMT: ","DST: 
+Benton: 
+Stroop: 0:44:25,  
+PST: 
+VMT: ",23,4,7,7,43,0.9555555556,Nina,Completed
+13,,,,,Green Classroom,17,4,6,2,6,3,22,6,3,52,0.8813559322,"DST: 26:02
+Benton: 27:02
+Stroop 31:15
+PST: 32:04
+VMT: 32:27","DST: 26:35, 26:36, 26:37, 26:38, 26:48
+Benton: 
+Stroop: 31:27, 31:39
+PST: 
+VMT: ","DST: 0:26:35, 0:26:36, 0:26:37, 0:26:38, 0:26:48
+Benton: 
+Stroop: 0:31:27, 0:31:39
+PST: 
+VMT: ",8,3,7,7,27,0.9310344828,Nina,Completed
+13,,,,,No Windows-wide,21,4,5,3,26,2,22,4,3,75,0.974025974,"DST: 23:58
+Benton: 25:03
+Stroop: 38:52
+PST: 39:29
+VMT: 39:52","DST: 24:43
+Benton: 
+Stroop: 
+PST: 39:38
+VMT:","DST: 0:24:43
+Benton: 
+Stroop: 
+PST: 0:39:38
+VMT ",26,3,7,7,46,0.9787234043,Nina,Completed
+13,,,,,"No Windows-wide, bar",18,4,5,2,21,2,22,2,2,67,0.9436619718,"DST: 28:05
+Benton: 29:11
+Stroop 33:25
+PST: 34:01
+VMT: 34:24","DST: 28:39, 28:41, 28:53, 29:01
+Benton: 
+Stroop: 
+PST: 
+VMT: ","DST: 0:28:39, 0:28:41, 0:28:53, 0:29:01
+Benton: 
+Stroop: 
+PST: 
+VMT: ",21,2,5,7,39,0.9512195122,Nina,Completed
+14,,subject14 - Desktop 2018.08.08 - 17.13.46.02,,,One Window,15,9,4,5,22,13,22,3,6,81,0.7714285714,"DST: 18:04
+Benton: 19:20
+Stroop: 33:37
+PST: 34:15
+VMT: 34:38","DST: 18:44, 18:46, 19:04, 19:08, 19:09, 19:11, 19:11
+Benton:
+Stroop: 33:58
+PST: 34:17, 34:17, 34:17, 34:17, 34:17, 34:19, 34:20, 34:20, 34:21, 34:24,  34:24, 34:25, 34:27, 34:27, 34:27, 34:28, 34:28, 34:29, 34:29, 34:29, 34:29
+VMT: ","DST: 70
+Benton: 28
+Stroop: 28
+PST: 14
+VMT: 31",23,34,5,7,56,0.7466666667,Nina,Completed
+14,,,,,Two Windows,20,9,5,6,23,19,21,9,6,92,0.7419354839,"DST: 20:09, 
+Benton: 21:19, 
+Stroop: 35:26
+PST: 36:03
+VMT: 36:25","DST: 21:03, 21:10
+Benton:
+Stroop:
+PST: random guessing 34 incorrect 19 correct
+VMT: 36:51","DST: 64
+Benton: 31
+Stroop: 27
+PST: 15
+VMT: 30",23,53,5,7,63,0.670212766,Nina,Completed
+14,,,,,Blue Classroom,19,9,6,6,22,19,21,3,4,90,0.6569343066,"DST: 13:45
+Benton: 14:51
+Stroop: 37:08
+PST: 37:45
+VMT: 38:07","DST: 14:07, 14:09, 14:38
+Benton:
+Stroop: 37:11, 37:27, 37:32, 37:32,  37:32,  37:32,  37:32,  37:32,  37:33 
+PST: random gussing 40 incorrect 19 correct
+VMT: 38:18","DST: 60
+Benton: 31
+Stroop: 26
+PST: 14
+VMT: 28",30,59,7,7,64,0.5981308411,Nina,Completed
+14,,,,,Red Classroom,21,8,7,6,22,18,20,N/A,6,89,0.6496350365,"DST: 22:12
+Benton: 23:31
+Stroop: 43:49, 
+PST: 44:26
+VMT: 44:48,","DST: 23:14
+Benton: 23:52
+Stroop: 43:51, 44:05, 44:05, 44:06
+PST: random guessing 45 incorrect 18 correct
+VMT: 44:52, 45:07","DST: 72
+Benton: 29
+Stroop: 26
+PST: 15
+VMT: 28",26,63,6,7,61,0.5700934579,Nina,Completed
+14,,,,,With Teacher,20,8,5,5,21,21,20,4,5,90,0.6818181818,"DST: 9:33
+Benton: 10:45
+Stroop: 38:50
+PST: 39:26
+VMT: 39:49","DST: 10:30, 10:37
+Benton: 11:07
+Stroop: 38:54, 38:54
+PST: random guessing 40 incorrect 21 correct
+VMT: 39:57, 40:06","DST: 76
+Benton: 30
+Stroop: 26
+PST: 15
+VMT: 30",23,61,5,7,62,0.6078431373,Nina,Completed
+14,,,,,No Windows-narrow,19,9,6,5,24,26,19,3,cant see,97,0.6928571429,"DST: 11:35
+Benton: 12:44
+Stroop: 42:10
+PST: 42:47
+VMT: 43:09","DST: 11:43, 11:44, 12:36
+Benton: 13:03
+Stroop: 
+PST: random guessing 42 incorrect 26 correct
+VMT: 43:13, 43:15, 43:19","DST: 64
+Benton: 28
+Stroop: 27
+PST: 15
+VMT: 30",24,68,6,7,72,0.6545454545,Nina,Completed
+14,,,,,Green Classroom,20,9,4,4,10,3,22,4,6,64,0.9275362319,"DST: 24:27
+Benton: 25:40 
+Stroop: 31:56
+PST: 32:35
+VMT: 32:58","DST: 25:19, 25:32
+Benton: 
+Stroop: 32:00, 32:02, 32:03, 32:05, 32:17, 32:18, 32:18, 32:20, 32:21
+PST: 
+VMT: ","DST: 66
+Benton: 31
+Stroop: 26
+PST: 16
+VMT: 27",18,3,5,7,34,0.8717948718,Nina,Completed
+14,,,,,No Windows-wide,20,9,6,5,27,30,22,10,4,108,0.7552447552,"DST: 26:32
+Benton: 27:51
+Stroop: 40:30
+PST: 41:07
+VMT: 41:30","DST: 27:31, 27:40
+Benton: 
+Stroop: 40:52
+PST: random guessing 37 incorrect 30 correct
+VMT: ","DST: 69
+Benton: 34
+Stroop: 27
+PST: 15
+VMT: 29",28,67,5,7,78,0.6902654867,Nina,Completed
+14,,,,,"No Windows-wide, bar",16,9,4,5,22,1,22,4,7,70,0.9589041096,"DST: 15:54
+Benton: 17:05
+Stroop: 30:00
+PST: 30:38
+VMT: 31:00","DST: 16:48, 16:51, 16:53, 16:54, 16:55, 16:55 
+Benton: 
+Stroop: 30:21
+PST: 30:46
+VMT: ","DST: 63
+Benton: 32
+Stroop: 28
+PST: 9
+VMT: 35",23,2,5,7,44,1.023255814,Nina,Completed
+15,,,,,One Window,18,5,5,3,18,7,9,5,1,57,0.7808219178,"DST: 14:13
+Benton: 15:24
+Stroop: 42:08
+PST: 42:45
+VMT: 43:10","DST: 14:51, 15:04, 15:06, 15:09
+Benton: 
+Stroop: 
+PST: 
+VMT: 43:27, 43:29, 43:30 (1), 43:30 (2), 43:31, 43:35, 43:36, 43:37, 43:39, 43:40, 43:41, 43:42, 43:43","DST: 58
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 36",18,7,5,4,39,0.9069767442,Elita,Completed
+15,,,,,Two Windows,15,5,4,2,19,3,14,1,2,56,0.7887323944,"DST: 16:42
+Benton: 17:50
+Stroop: 36:14
+PST: 36:51
+VMT: 37:14","DST: 17:18, 17:22, 17:24, 17:36, 17:37, 17:41 (1), 17:41 (2)
+Benton: 
+Stroop: 
+PST: 37:03
+VMT: 37:34, 37:36, 37:37, 37:38 (1), 37:38 (2), 37:39, 37:41, 37:43","DST: 60
+Benton: 23
+Stroop: 26
+PST: 15
+VMT: 37",19,4,5,7,39,0.9512195122,Elita,Completed
+15,,,,,Blue Classroom,19,5,7,3,21,3,20,1,3,68,0.8947368421,"DST: 23:34
+Benton: 24:35
+Stroop: 46:12
+PST: 46:48
+VMT: 47:13","DST: 24:11, 24:12, 24:28
+Benton: 
+Stroop: 46:14, 46:28, 46:33 
+PST: 46:59
+VMT: 47:40, 47:43","DST: 54
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 31",24,4,5,7,41,0.8913043478,Elita,Completed
+15,,,,,Red Classroom,14,4,7,3,19,7,22,5,3,66,0.8684210526,"DST: 20:44
+Benton: 22:14
+Stroop: 50:04
+PST: 50:41
+VMT: 51:09","DST: 20:51 (1), 20:21 (2), 21:08, 21:22, 21:25, 21:29, 21:46, 21:50
+Benton: 22:21, 
+Stroop: 50:15, 50:29
+PST: 
+VMT: ","DST: 66
+Benton: 12
+Stroop: 26
+PST: 15
+VMT: 26",21,7,0,7,37,0.8043478261,Elita,Completed
+15,,,,,With Teacher,11,4,4,8,22,6,21,3,6,64,0.8533333333,"DST: 28:54
+Benton: 30:17
+Stroop: 48:10
+PST: 48:45
+VMT: 49:07","DST: 28:59, 29:03, 29:16, 29:17, 29:18, 29:31, 29:34, 29:36, 29:37, 29:54, 29:57
+Benton: 30:30
+Stroop: 
+PST: 
+VMT: 49:29","DST: 66
+Benton: 27 
+Stroop: 26
+PST: 15
+VMT: 33",21,6,0,7,39,0.8666666667,Elita,Completed
+15,,,,,No Windows-narrow,18,5,6,3,21,5,22,9,2,71,0.9594594595,"DST: 18:48
+Benton: 20:02
+Stroop: 40:14
+PST: 40:50
+VMT: 41:14","DST: 19:30, 19:33, 19:35, 19:54
+Benton: 
+Stroop: 
+PST: 41:35, 41:36, 
+VMT: ","DST: 67
+Benton: 19
+Stroop: 26
+PST: 15
+VMT: 33",21,5,5,7,43,0.9772727273,Elita,Completed
+15,,,,,Green Classroom,19,5,8,3,9,6,17,3,3,56,0.7368421053,"DST: 31:15
+Benton: 32:16
+Stroop: 52:08
+PST: 52:45
+VMT: 53:13","DST: 32:06, 32:09, 32:10
+Benton: 
+Stroop: 52:11, 52:12, 52:13, 52:14, 52:19, 52:20, 52:22, 52:25 (1), 52:25 (2), 52:26, 52:29, 52:31, 52:33
+PST:  
+VMT: 53:18, 53:25, 53:27, 53:41, 53:42","DST: 55
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 37",22,6,6,7,33,0.7173913043,Elita,Completed
+15,,,,,No Windows-wide,13,5,7,2,21,5,16,7,3,60,0.8,"DST: 25:37, 
+Benton: 27:01 
+Stroop: 38:15
+PST: 38:52
+VMT: 39:14","DST: 25:44, 25:45, 25:55, 26:03,  26:18, 26:30, 26:31, 26:32, 26:34
+Benton:
+Stroop: 38:22
+PST: 
+VMT: 39:23, 39:25, 39:30, 39:34, 39:44, 39:45","DST: 58
+Benton: 26
+Stroop: 26
+PST: 15
+VMT: 33",22,5,0,4,35,0.7777777778,Elita,Completed
+15,,,,,"No Windows-wide, bar",14,4,9,2,24,5,15,5,3,62,0.775,"DST: 33:10
+Benton: 34:12
+Stroop: 44:09
+PST: 44:46
+VMT: 45:08","DST: 33:43, 33:45, 33:46, 33:47, 34:02, 34:03 (1), 34:03 (2), 34:04 
+Benton: 34:31
+Stroop: 44:33
+PST: 44:55, 44:58
+VMT: 45:11, 45:35 (1), 45:35 (2), 45:36, 45:37, 45:38, 45:44 ","DST: 56
+Benton: 19
+Stroop: 26
+PST: 15
+VMT: 41",25,7,5,4,42,0.84,Elita,Completed
+16,,subject16 - Desktop 2018.08.09 - 16.49.05.01,,,One Window,15,4,3,2,1,2,13,N/A,10,35,0.625,"DST: 21:36
+Benton: 22:40
+Stroop: 30:16
+PST: 30:53
+VMT: 31:20","DST: 22:09, 22:13, 22:13, 22:14, 22:24, 22:30
+Benton: all correct
+Stroop: 30:22, 30:25, 30:37, 30:39, 30:41
+PST: all correct
+VMT: 31:59, 32:01, 32:02, 32:03, 32:04, 32:05, 32:05, 32:06","DST: 54
+Benton: 24
+Stroop: 27
+PST: 16
+VMT: 48",6,2,5,7,19,0.7307692308,Elita,Completed
+16,,,,,Two Windows,17,4,4,1,7,3,22,2,1,53,0.8983050847,"DST: 17:36
+Benton: 18:47
+Stroop: 28:18
+PST: 28:56
+VMT: 29:18","DST: 18:14, 18:15, 18:26, 18:34
+Benton: all correct
+Stroop: 28:40
+PST: all correct
+VMT: all correct","DST: 60
+Benton: 26
+Stroop: 26
+PST: 15
+VMT: 47",8,3,5,7,26,0.8965517241,Elita,Completed
+16,,,,,Blue Classroom,17,4,3,3,8,3,13,3,10,45,0.6818181818,"DST: 19:35
+Benton: 20:49
+Stroop: 34:04
+PST: 34:40
+VMT: 35:04","DST: 20:29, 20:33, 20:34, 20:37
+Benton: all correct
+Stroop: 34:08, 34:11, 34:12, 34:18, 34:23, 34:28
+PST: 34:49
+VMT: 35:09, 35:17, 35:31, 35:34, 35:36, 35:37, 35:38, 35:39, 35:40","DST: 65
+Benton: 27
+Stroop: 27
+PST: 17
+VMT: 37",14,4,6,7,28,0.7777777778,Elita,Completed
+16,,,,,Red Classroom,17,4,3,4,4,3,22,3,2,50,0.78125,"DST: 13:26
+Benton: 14:31
+Stroop: 35:57
+PST: 36:36
+VMT: 36:58","DST: 14:14, 14:21, 14:22, 14:23
+Benton: all correct
+Stroop: 35:58, 36:01, 36:02, 36:04, 36:08, 36:15, 36:17, 36:19, 36:21
+PST: all correct
+VMT: all correct","DST: 58
+Benton: 28
+Stroop: 27
+PST: 15
+VMT: 29",13,3,6,7,24,0.7058823529,Elita,Completed
+16,,,,,With Teacher,19,3,4,5,10,3,22,8,2,57,0.8507462687,"DST: 15:25
+Benton: 16:35
+Stroop: 32:22
+PST: 33:00
+VMT: 33:23","DST: 16:15, 16:25
+Benton: 17:10
+Stroop: 32:26, 32:27, 32:32, 32:36, 32:45, 32:48
+PST: all correct
+VMT: all correct","DST: 62
+Benton: 41
+Stroop: 16
+PST: 16
+VMT: 27",16,3,6,7,29,0.7837837838,Elita,Completed
+16,,,,,No Windows-narrow,17,4,3,3,8,1,18,3,10,48,0.7741935484,"DST: 11:34
+Benton: 12:41
+Stroop: 39:28
+PST: 40:07
+VMT: 40:29","DST: 12:26, 12:33, 12:33, 12:34
+Benton: all correct
+Stroop: 39:30, 39:32, 39:34, 39:43, 39:46
+PST: all correct
+VMT: 41:02, 41:04, 41:05","DST: 60
+Benton: 27
+Stroop: 26
+PST: 15
+VMT: 38",13,1,6,7,26,0.8125,Elita,Completed
+16,,,,,Green Classroom,18,4,4,2,4,2,21,10,2,49,0.7777777778,"DST: 9:28
+Benton: 10:40
+Stroop: 37:39
+PST: 38:16
+VMT: 38:43","DST: 10:22, 10:30, 10:31
+Benton: all correct
+Stroop: 37:43, 37:44, 37:46, 37:48, 37:56, 38:00, 38:01, 38:04
+PST: all correct
+VMT: 38:54","DST: 63
+Benton: 24
+Stroop: 46
+PST: 15
+VMT: 28",13,2,6,7,23,0.696969697,Elita,Completed
+16,,,,,No Windows-wide,17,4,3,1,15,2,21,3,1,59,0.8309859155,"DST: 23:21
+Benton: 24:23
+Stroop: 41:32
+PST: 42:09
+VMT: 42:31","DST: 24:11, 24:13, 24:15, 24:15
+Benton: all correct
+Stroop: 41:37, 41:42, 41:47, 41:50, 41:50
+PST: 42:16
+VMT: 42:50","DST: 55
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 28",20,3,6,7,34,0.8292682927,Elita,Completed
+16,,,,,"No Windows-wide, bar",12,3,3,2,2,3,20,3,1,40,0.6349206349,"DST: 25:10
+Benton: 26:23
+Stroop: 43:12
+PST: 43:50
+VMT: 44:18","DST: 25:30, 25:30, 25:32, 25:32, 25:33, 25:49, 25:51, 25:54, 26:13
+Benton: 26:28
+Stroop: 43:17, 43:18, 43:21, 43:25, 43:27, 43:28, 43:29, 43:31, 43:35, 43:36
+PST: all correct
+VMT: 44:41, 44:49","DST: 65
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 32",12,3,4,4,16,0.4848484848,Elita,Completed
+17,,subject17 - Desktop 2018.08.10 - 13.32.26.01,,,One Window,21,4,3,3,22,2,22,4,3,71,0.9861111111,"DST: 10:28
+Benton: 11:40
+Stroop: 29:41
+PST: 30:18
+VMT: 30:40","DST: 11:23
+Benton: 
+Stroop: 
+PST: 
+VMT: ","DST: 62
+Benton: 22
+Stroop: 26
+PST: 15
+VMT: 30",22,2,7,7,42,1,Elita,Completed
+17,,,,,Two Windows,20,4,3,4,22,2,22,9,3,70,0.9722222222,"DST: 14:16
+Benton: 15:19
+Stroop: 43:54
+PST: 44:31
+VMT: 44:54","DST: 15:03, 15:09
+Benton: 
+Stroop: 
+PST: 
+VMT: ","DST: 54
+Benton: 22
+Stroop: 26
+PST: 15
+VMT: 29",22,2,5,7,40,0.9523809524,Elita,Completed
+17,,,,,Blue Classroom,20,4,4,4,15,2,22,2,3,63,0.9545454545,"DST: 19:43
+Benton: 20:47
+Stroop: 33:16
+PST: 33:53
+VMT: 34:15","DST: 20:32, 20:38
+Benton: 
+Stroop: 33:31
+PST: 
+VMT: ","DST: 55
+Benton: 28 
+Stroop: 27
+PST: 15
+VMT: 27",16,2,5,7,33,0.9166666667,Elita,Completed
+17,,,,,Red Classroom,20,4,3,4,10,3,22,2,3,59,0.921875,"DST: 17:54
+Benton: 18:59
+Stroop: 35:02
+PST: 35:59
+VMT: 36:02","DST: 18:44, 18:51
+Benton: 
+Stroop: 35:05, 35:15, 35:28
+PST: 
+VMT: ","DST: 59
+Benton: 23 
+Stroop: 26
+PST: 15
+VMT: 28",13,3,5,7,29,0.8529411765,Elita,Completed
+17,,,,,With Teacher,20,4,3,3,15,3,22,5,3,64,0.9275362319,"DST: 16:08
+Benton: 17:10
+Stroop: 36:50
+PST: 37:27
+VMT: 37:49","DST: 16:56, 17:01
+Benton: 
+Stroop: 37:12, 37:15
+PST: 37:39
+VMT: ","DST: 55
+Benton: 23 
+Stroop: 26
+PST: 15
+VMT: 28",17,4,5,7,34,0.8717948718,Elita,Completed
+17,,,,,No Windows-narrow,21,4,3,4,18,2,22,2,3,67,0.9710144928,"DST: 23:27
+Benton: 24:31
+Stroop: 38:34
+PST: 39:11
+VMT: 39:33","DST: 24:15
+Benton: 
+Stroop: 
+PST: 39:17
+VMT: ","DST: 56
+Benton: 23
+Stroop: 26
+PST: 15
+VMT: 30",18,3,7,7,38,0.9743589744,Elita,Completed
+17,,,,,Green Classroom,21,4,3,4,14,3,22,5,3,64,0.9552238806,"DST: 25:19
+Benton: 26:20
+Stroop: 42:07
+PST: 42:44
+VMT: 43:06","DST: 26:12
+Benton: 
+Stroop: 42:15
+PST: 42:56
+VMT: ","DST: 54
+Benton: 20
+Stroop: 26
+PST: 15
+VMT: 29",15,4,6,7,34,0.9189189189,Elita,Completed
+17,,,,,No Windows-wide,20,4,3,3,19,3,21,4,2,67,0.9436619718,"DST: 12:25
+Benton: 13:29
+Stroop: 31:27
+PST: 32:04
+VMT: 32:27","DST: 13:13, 13:21
+Benton: 
+Stroop: 
+PST: 32:13
+VMT: 32:47","DST: 57
+Benton: 23 
+Stroop: 27
+PST: 16
+VMT: 31",19,4,5,7,38,0.9268292683,Elita,Completed
+17,,,,,"No Windows-wide, bar",20,4,4,4,18,1,22,2,3,65,0.9558823529,"DST: 21:39
+Benton: 22:44
+Stroop: 40:21
+PST: 41:00
+VMT: 41:22","DST: 22:29, 22:35
+Benton: 
+Stroop: 
+PST: 41:05
+VMT: ","DST: 57
+Benton: 22
+Stroop: 26
+PST: 15
+VMT: 28",18,2,5,7,35,0.9210526316,Elita,Completed
+18,,subject18 - Desktop 2018.08.13 - 10.04.42.01,,,One Window,13,4,1,1,4,2,20,7,1,43,0.671875,"DST: 18:20
+Benton: 19:40
+Stroop: 47:14
+PST: 47:51
+VMT: 48:13","DST: 19:02, 19:04, 19:20, 19:23, 19:25, 19:27,19:29, 19:33
+Benton: all correct
+Stroop: 47:19, 47:20, 47:30, 47:30, 47:32, 47:34, 47:36, 47:37, 47:39
+PST: 47:55
+VMT: 48:26, 48:45","DST: 73
+Benton: 25
+Stroop: 27
+PST: 16
+VMT: 37",13,3,5,7,22,0.6470588235,Elita,Completed
+18,,,,,Two Windows,15,3,1,1,8,2,10,10,1,38,0.5757575758,"DST: 13:26
+Benton: 14:57
+Stroop: 38:09
+PST: 38:45
+VMT: 39:08","DST: 13:48, 14:26, 14:35, 14:37, 14:39, 14:45
+Benton: 15:19
+Stroop: 38:11, 38:16, 38:19, 38:22, 38:26, 38:28, 38:32
+PST: 38:54
+VMT: 39:30, 39:34, 39:35, 39:36, 39:37, 39:45, 39:46, 39:48, 39:50, 39:52, 39:54","DST: 94
+Benton: 23
+Stroop: 25
+PST: 16
+VMT: 49",15,3,6,4,23,0.6388888889,Elita,Completed
+18,,,,,Blue Classroom,12,3,1,1,7,4,21,1,1,47,0.6911764706,"DST: 29:09
+Benton: 30:36
+Stroop: 45:28
+PST: 46:05
+VMT: 46:29","DST: 29:19, 29:56, 29:58, 29:59, 30:10, 30:17, 30:18, 30:26, 30:27
+Benton: 30:45
+Stroop: 45:30, 45:32, 45:35, 45:38, 45:40, 45:45, 45:48, 45:52, 45:54
+PST: all correct
+VMT: 46:49","DST: 80
+Benton: 33
+Stroop: 26
+PST: 16
+VMT: 24",16,4,5,7,26,0.6842105263,Elita,Completed
+18,,,,,Red Classroom,11,3,1,1,5,1,19,3,1,39,0.5820895522,"DST: 20:23
+Benton: 21:45
+Stroop: 49:04
+PST: 49:41
+VMT: 50:03","DST: 20:45, 21:05, 21:10, 21:12, 21:13, 21:29, 21:31, 21:32, 21:35, 21:37
+Benton: 22:13
+Stroop: 49:06, 49:07, 49:12, 49:14, 49:16, 49:17, 49:21, 49:27
+PST: 49:47, 49:50, 49:54
+VMT: 50:23, 50:30, 50:30","DST: 64
+Benton: 28
+Stroop: 26
+PST: 15
+VMT: 31",15,4,4,4,17,0.4594594595,Elita,Completed
+18,,,,,With Teacher,12,3,1,1,14,3,19,6,1,51,0.7285714286,"DST: 15:38
+Benton: 17:17
+Stroop: 40:12
+PST: 40:49
+VMT: 41:11","DST: 16:11, 16:13, 16:27, 16:31, 16:34, 16:52, 17:02, 17:03, 17:08
+Benton: 17:50
+Stroop: 40:21, 40:26, 40:28, 40:36, 40:38
+PST: 40:54
+VMT: 41:41, 41:45","DST: 92
+Benton: 43
+Stroop: 26
+PST: 15
+VMT: 36",19,3,4,7,31,0.775,Elita,Completed
+18,,,,,No Windows-narrow,15,4,1,1,14,3,18,3,1,54,0.7826086957,"DST: 26:55
+Benton: 28:23
+Stroop: 41:58
+PST: 42:35
+VMT: 42:57","DST: 27:09, 27:15, 27:28, 27:30, 28:08, 28:13
+Benton: all correct
+Stroop: 42:06, 42:11, 42:21
+PST: 42:41
+VMT: 43:19, 43:21, 43:22, 43:24","DST: 72
+Benton: 32
+Stroop: 26
+PST: 15
+VMT: 38",17,4,6,7,34,0.8717948718,Elita,Completed
+18,,,,,Green Classroom,16,4,1,1,8,3,21,3,1,52,0.7536231884,"DST: 24:50
+Benton: 26:09
+Stroop: 43:46
+PST: 44:22
+VMT: 44:45","DST: 25:39, 25:49, 25:54, 25:55, 26:00
+Benton: all correct
+Stroop: 43:49, 43:52, 43:53, 43:59, 44:00, 44:02, 44:03, 44:05, 44:07
+PST: 44:30
+VMT: 45:13","DST: 72
+Benton: 32
+Stroop: 26
+PST: 15
+VMT: 30",17,4,5,7,27,0.6923076923,Elita,Completed
+18,,,,,No Windows-wide,14,3,1,1,13,2,20,5,1,52,0.8,"DST: 22:28
+Benton: 24:02
+Stroop: 34:39
+PST: 35:16
+VMT: 35:38","DST: 23:15, 23:23, 23:34, 23:48, 23:50, 23:51, 23:55
+Benton: 24:09
+Stroop: 34:44, 35:04
+PST: all correct
+VMT: 35:59, 36:07","DST: 87
+Benton: 31
+Stroop: 26
+PST: 15
+VMT: 31",15,2,5,4,27,0.7714285714,Elita,Completed
+18,,,,,"No Windows-wide, bar",17,4,1,1,10,2,21,2,1,54,0.7714285714,"DST: 31:28
+Benton: 32:40
+Stroop: 36:22
+PST: 36:59
+VMT: 37:22","DST: 32:05, 32:20, 32:32, 32:33
+Benton: all correct
+Stroop: 36:28, 36:31, 36:34, 36:39, 36:41, 36:42, 36:43, 36:44, 36:46
+PST: 37:04
+VMT: 37:55","DST: 65
+Benton: 34
+Stroop: 26
+PST: 15
+VMT: 35",19,3,5,7,28,0.7,Elita,Completed
+19,,,,,One Window,22,4,8,8,13,2(1),22,2,3,#VALUE!,#VALUE!,"DST: 17:47
+Benton: 19:35
+Stroop: 38:31
+PST: 39:07 
+VMT: 39:30","DST: 18:18, 18:20, 18:27, 18:51, 18:54, 18:56, 18:58, 19:14, 19:17, 19:19, 19:21, 19:28
+Benton: NA
+Stroop: NA
+PST: 39:20
+VMT: NA ","DST: 103
+Benton: 27
+Stroop: 26
+PST: 16
+VMT: 47",,,,7,#VALUE!,#VALUE!,Jasmine,Validation Needed
+19,,,,,Two Windows,22,4,7,6,16(15),2,22,6,6,#VALUE!,#VALUE!,"DST: 28:34
+Benton: 30:00
+Stroop: 48:14
+PST: 48:51
+VMT: 49:15","DST: 29:16, 29:17, 29:19, 29:31, 29:44, 29:47
+Benton: NA
+Stroop: 48:30
+PST: NA
+VMT: NA","DST: 78
+Benton: 29
+Stroop: 27
+PST: 17
+VMT: 32",,,,7,#VALUE!,#VALUE!,Jasmine,Validation Needed
+19,,,,,Blue Classroom,22,4,7,3,13(11),3,22,9,2,#VALUE!,#VALUE!,"DST: 20:35
+Benton: 22:22
+Stroop: 42:30
+PST: 43:08
+VMT: 43:30","DST: 21:19, 21:28, 21:38, 21:50, 22:02
+Benton: NA
+Stroop: 42:44, 42:44 
+PST: NA
+VMT: NA ","DST: 90
+Benton: 39
+Stroop: 26
+PST: 16
+VMT: 33",,,,7,#VALUE!,#VALUE!,Jasmine,Validation Needed
+19,,,,,Red Classroom,22,4,5,4,9(8),3,22,5,6,#VALUE!,#VALUE!,"DST: 30:59
+Benton: 32:16
+Stroop: 46:18
+PST: 46:54
+VMT: 47:17","DST: 31:41, 31:53, 32:00, 32:03, 32:04, 32:08
+Benton: NA
+Stroop: 46:43
+PST: NA
+VMT: NA","DST: 68
+Benton: 28
+Stroop: 26
+PST: 17
+VMT: 36",,,,7,#VALUE!,#VALUE!,Jasmine,Validation Needed
+19,,,,,With Teacher,22,4,8,8,20,4(1),22,1,4,#VALUE!,#VALUE!,"DST: 23:28
+Benton: 24:57
+Stroop: 50:02
+PST: 50:41
+VMT: 51:03","DST: 23:38, 23:46, 24:04, 24:08, 24:11, 24:19, 24:31, 24:35, 24:42, 24:47, 24:48, 24:49
+Benton: NA
+Stroop: NA
+PST: 50:45, 50:48, 50:53
+VMT: NA","DST: 72
+Benton: 37
+Stroop: 27
+PST: 14
+VMT: 32",,,,7,#VALUE!,#VALUE!,Jasmine,Validation Needed
+19,,,,,No Windows-narrow,22,4,9,7,17,3,22,4,4,68,1.416666667,"DST: 25:57
+Benton: 27:33
+Stroop: 44:25
+PST: 45:00
+VMT: 45:24","DST: 26:46, 26:51, 27:01, 27:14, 27:18, 27:20, 27:22
+Benton: NA
+Stroop: NA
+PST: NA
+VMT: NA","DST: 89
+Benton: 30
+Stroop: 25
+PST: 17
+VMT: 34",,,,7,31,1.722222222,Jasmine,Validation Needed
+19,,,,,Green Classroom,22,4,6,6,11(6),4,22,4,7,#VALUE!,#VALUE!,"DST: 33:11
+Benton: 34:37
+Stroop: 51:57
+PST: 52:36
+VMT: 52:55","DST: 33:55, 33:56, 34:02, 34:04, 34:14, 34:19, 34:21, 34:25, 34:27 
+Benton: NA 
+Stroop: 52:00, 52:08, 52:12, 52:16, 52:21
+PST: NA
+VMT: NA","DST: 79
+Benton: 27
+Stroop: 26
+PST: 15
+VMT: 31",,,,7,#VALUE!,#VALUE!,Jasmine,Validation Needed
+19,,,,,No Windows-wide,22,4,7,6,15,3(2),22(21),2,6,#VALUE!,#VALUE!,"DST: 12:39
+Benton: 14:15
+Stroop: 40:36
+PST: 41:12
+VMT: 41:37","DST: 13:00, 13:45, 13:57, 13:59, 14:04, 14:05
+Benton: 14:47
+Stroop: NA
+PST: 41:24
+VMT: 41:59","DST: 92
+Benton: 32
+Stroop: 26
+PST: 16
+VMT: 46",,,,,#VALUE!,#VALUE!,Jasmine,Validation Needed
+19,,,,,"No Windows-wide, bar",22,4,4,4,14,3,22,4,4,65,1.354166667,"DST: 15:16
+Benton: 16:45
+Stroop: 53:45
+PST: 54:23
+VMT: 54:44","DST: 16:23, 16:28, 16:30, 16:33, 16:35
+Benton: NA
+Stroop: NA
+PST: NA
+VMT: NA","DST: 1:23
+Benton: 0:33
+Stroop: 0:27
+PST: 0:15
+VMT: 0:32",,,,7,28,1.555555556,Jasmine,Validation Needed
+20,,,,,One Window,16,4,2,1,25,3,22,4,1,70,0.9090909091,"DST: 24:04
+Benton: 25:09
+Stroop: 37:41
+PST: 38:17
+VMT: 38:40","DST: 24:36, 24:37, 24:38, 24:59, 25:00
+Benton: 
+Stroop:
+PST: 38:28
+VMT:","DST: 58
+Benton: 20
+Stroop: 26
+PST: 16
+VMT: 28",25,4,11,7,50,1.063829787,Matthew,Validation Needed
+20,,,,,Two Windows,17,4,2,1,26,2,22,3,1,71,0.9220779221,"DST: 22:16
+Benton: 23:20
+Stroop: 35:53
+PST: 36:29
+VMT: 36:53","DST: 22:50, 22:52, 22:53, 23:13
+Benton: 
+Stroop:
+PST: 36:39
+VMT:","DST: 60
+Benton: 22
+Stroop: 27
+PST: 15
+VMT: 28",26,3,11,7,50,1.063829787,Matthew,Completed
+20,,,,,Blue Classroom,15,4,2,2,24,3,22,5,2,68,0.9066666667,"DST: 8:45 
+Benton: 9:55
+Stroop: 34:12
+PST: 34:50 
+VMT: 35:12","DST: 9:20, 9:22, 9:27, 9:38, 9:39, 9:42
+Benton:
+Stroop:
+PST:
+VMT:","DST: 65
+Benton: 25
+Stroop: 26
+PST: 15
+VMT: 26",24,3,10,7,48,1.066666667,Matthew,Completed
+20,,,,,Red Classroom,14,4,2,2,20,3,22,7,2,63,0.8873239437,"DST: 14:27
+Benton: 15:33
+Stroop: 32:22
+PST: 32:38
+VMT: 33:21","DST: 15:00, 15:01, 15:02, 15:14, 15:17, 15:18, 15:24
+Benton:
+Stroop:
+PST:
+VMT:","DST: 58
+Benton: 22
+Stroop:26
+PST: 16
+VMT: 28",20,3,10,7,44,1.073170732,Matthew,Completed
+20,,,,,With Teacher,15,4,2,2,28,2,22,3,1,71,0.9102564103,"DST: 16:24 
+Benton: 17:34
+Stroop: 28:40
+PST: 29:17
+VMT: 29:39","DST: 17:03, 17:05, 17:15, 17:22, 17:24, 17:25
+Benton:
+Stroop:
+PST:
+VMT:","DST: 64
+Benton: 25
+Stroop: 26
+PST: 15
+VMT: 28",28,2,7,7,48,1,Matthew,Completed
+20,,,,,No Windows-narrow,14,4,2,2,24,3,22,3,1,67,0.8933333333,"DST: 18:26
+Benton: 19:37
+Stroop: 30:30
+PST: 31:08
+VMT: 31:29","DST: 18:43, 18:49, 19:00, 19:06, 19:09, 19:20, 19:28
+Benton: 
+Stroop:
+PST:
+VMT:","DST: 65
+Benton: 25
+Stroop: 26
+PST: 15
+VMT: 28",24,3,4,7,42,0.9333333333,Matthew,Completed
+20,,,,,Green Classroom,13,4,2,3,15,3,22,2,2,57,0.8142857143,"DST: 10:53
+Benton: 11:56
+Stroop: 39:28
+PST: 40:05
+VMT: 40:27","DST: 11:12, 11:13, 11:28, 11:30, 11:40, 11:46, 11:47
+Benton: 
+Stroop: 39:34, 39:41, 39:46, 39:50 
+PST: 
+VMT:","DST: 56
+Benton: 30
+Stroop: 26
+PST: 15
+VMT: 28",19,3,6,7,35,0.875,Matthew,Completed
+20,,,,,No Windows-wide,15,4,2,1,19,1,22,4,2,61,0.884057971,"DST: 20:27
+Benton: 21:31
+Stroop: 26:54
+PST: 27:30
+VMT: 27:53","DST: 21:00, 21:01, 21:14, 21:21, 21:23, 21:24
+Benton:
+Stroop:
+PST: 27:36
+VMT:","DST: 59
+Benton: 23
+Stroop: 25
+PST: 16
+VMT: 29",19,2,11,7,42,1.076923077,Matthew,Completed
+20,,,,,"No Windows-wide, bar",18,4,2,1,21,1,21,1,1,65,0.9027777778,"DST: 12:42
+Benton: 13:44
+Stroop: 41:12
+PST: 41:49
+VMT: 42:12","DST: 13:29, 13:35, 13:35
+Benton: 
+Stroop: 41:30
+PST: 41:57
+VMT: 42:39","DST: 54
+Benton: 22
+Stroop: 25
+PST: 15
+VMT: 28",22,2,15,20,61,1.452380952,Matthew,Completed
+21,,,,,One Window,16,3,5,5,16,3,22,1,5,60,0.8955223881,"DST: 26:53
+Benton: 28:05
+Stroop: 47:26
+PST: 48:04
+VMT: 48:27","DST: 27:51, 27:53, 27:55, 27:56, 27:57 
+Benton: 28:41
+Stroop:
+PST:
+VMT: 49:01, 49:02, 49:05, 49:07 ","DST: 65
+Benton: 36
+Stroop: 25
+PST: 15
+VMT: 41",16,3,5,7,34,0.9189189189,Jesus,Completed
+21,,,,,Two Windows,13,3,2,4,22,2,22,3,5,62,0.8611111111,"DST: 9:18
+Benton: 10:51
+Stroop: 45:32
+PST: 46:09
+VMT: 46:31","DST: 9:53, 9:56, 10:14, 10:17, 10:19, 10:33, 10:38, 10:40
+Benton: 10:55
+Stroop:
+PST:
+VMT: 46:43","DST: 87
+Benton: 21
+Stroop: 25
+PST: 15
+VMT: 35",22,2,4,7,38,0.9047619048,Jesus,Completed
+21,,,,,Blue Classroom,7,1,5,6,10,2,22,7,5,42,0.6885245902,"DST: 29:11
+Benton: 30:24
+Stroop: 35:05
+PST: 35:42
+VMT: 36:09","DST: 29:18, 29:19, 29:30, 29:32, 29:33, 29:34, 29:47, 29:50, 29:52, 29:55, 29:56, 30:07, 30:09, 30:10, 30:12 
+Benton: 30:36, 30:42, 30:51
+Stroop: 35:10 
+PST:
+VMT: 36:21, 36:24, 36:25, 36:27, 36:28, 36:29 ","DST: 65
+Benton: 27
+Stroop: 26
+PST: 15
+VMT: 57",11,2,0,7,20,0.6451612903,Jesus,Completed
+21,,,,,Red Classroom,12,2,5,5,13,3,22,8,6,52,0.8125,"DST: 16:45
+Benton: 18:06
+Stroop: 49:26
+PST: 50:02
+VMT: 50:24","DST: 17:09, 17:11, 17:25, 17:30, 17:32, 17:33, 17:54, 17:55, 17:57 
+Benton: 18:19, 18:42
+Stroop:
+PST:
+VMT: 50:51, 50:53, 50:54, 50:55, 50:59, 51:01, 51:02, 51:03","DST: 76
+Benton: 36
+Stroop: 25
+PST: 15
+VMT: 40",13,3,4,7,29,0.8529411765,Jesus,Completed
+21,,,,,With Teacher,14,4,5,5,15,2,22,9,5,57,0.8507462687,"DST: 19:30
+Benton: 21:02
+Stroop: 41:42
+PST: 42:20
+VMT: 42:43","DST: 20:08, 20:11, 20:18, 20:33, 20:35, 20:36, 20:37 
+Benton:
+Stroop: 42:06 
+PST: 42:28
+VMT: 43:05, 43:06 ","DST: 70
+Benton: 26
+Stroop: 25
+PST: 15
+VMT: 38",16,3,5,7,33,0.8918918919,Jesus,Completed
+21,,,,,No Windows-narrow,13,3,5,6,17,3,22,1,4,58,0.8529411765,"DST:  21:51
+Benton: 23:15
+Stroop: 39:48
+PST: 40:25
+VMT: 40:49","DST: 22:35, 22:37, 22:39, 22:40, 23:01, 23:04, 23:06, 23:07 
+Benton: 23:38
+Stroop:
+PST:
+VMT:","DST: 78
+Benton: 8
+Stroop: 25
+PST: 15
+VMT: 35",17,3,5,7,35,0.9210526316,Jesus,Completed
+21,,,,,Green Classroom,8,3,5,4,7,1,22,7,6,41,0.6833333333,"DST: 24:21
+Benton: 25:48
+Stroop: 37:50
+PST: 38:28
+VMT: 38:53","DST: 24:47, 24:49, 24:52, 25:07, 25:08, 25:10, 25:13, 25:15, 25:16, 25:29, 25:33, 25:35, 25:37 
+Benton: 26:12
+Stroop: 37:54, 38:05, 38:09, 38:13 
+PST:
+VMT:","DST: 80
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 34",11,1,4,7,22,0.7333333333,Jesus,Completed
+21,,,,,No Windows-wide,11,4,4,4,16,2,22,5,4,55,0.8333333333,"DST: 14:37
+Benton: 15:59
+Stroop: 43:38
+PST: 44:20
+VMT: 44:43","DST: 14:59, 15:01, 15:06, 15:19, 15:22, 15:23, 15:24, 15:26, 15:46, 15:50
+Benton: 
+Stroop:
+PST:
+VMT:","DST: 77
+Benton: 22
+Stroop: 25
+PST: 15
+VMT: 32",16,2,4,7,33,0.9166666667,Jesus,Completed
+21,,,,,"No Windows-wide, bar",14,2,4,4,16,0,14,8,4,46,0.7076923077,"DST: 12:11
+Benton: 13:32
+Stroop: 32:33
+PST: 33:15
+VMT: 33:37","DST: 12:34, 12:39, 13:01, 13:15, 13:19, 13:22, 13:24
+Benton: 13:39, 13:45
+Stroop:
+PST: 33:28 
+VMT: 34:17, 34:23, 34:24, 34:27, 34:29, 34:34 ","DST: 79
+Benton: 31
+Stroop: 25
+PST: 15
+VMT: 58",16,1,4,6,28,0.8,Jesus,Completed
+22,,,,,One Window,3,0,4,1,0,0,1,2,1,4,0.05,"DST: 20:15
+Benton: 21:16
+Stroop: 24:37 
+PST: 25:14 
+VMT: 25:36","DST: 20:54, 21:08, 21:09
+Benton:
+Stroop:
+PST:
+VMT: 25:40","DST: 55
+Benton: 20
+Stroop: 26 
+PST: 16
+VMT: 24",28,4,14,20,34,0.68,Claire,Validation Needed
+22,,,,,Two Windows,1,0,3,1,0,0,1,9,1,2,0.025,"DST: 15:14
+Benton: 16:15
+Stroop: 27:52
+PST: 28:32
+VMT: 28:54","DST: 15:50
+Benton:
+Stroop:
+PST:
+VMT: 29:05, 29:12","DST: 55
+Benton: 20
+Stroop: 30
+PST: 16
+VMT: 28",26,6,14,8,22,0.44,Claire,Completed
+22,,,,,Blue Classroom,2,0,3,1,0,1,1,8,3,4,0.04819277108,"DST: 16:52
+Benton: 17:52
+Stroop: 36:06
+PST: 36:43
+VMT: 37:05","DST: 17:27, 17:43
+Benton: 16:15
+Stroop:
+PST: 36:49
+VMT: 37:31","DST: 52
+Benton: 29
+Stroop: 27
+PST: 16
+VMT: 28",31,4,14,21,36,0.679245283,Claire,Completed
+22,,,,,Red Classroom,3,0,2,3,0,1,1,5,1,5,0.06578947368,"DST: 10:15
+Benton: 11:11
+Stroop: 31:11
+PST: 31:48
+VMT: 32:10","DST: 10:47, 11:02, 11:04
+Benton:
+Stroop:
+PST: 31:53
+VMT: 32:27","DST: 51
+Benton: 22
+Stroop: 27
+PST: 16
+VMT: 17",24,4,14,14,29,0.6304347826,Claire,Completed
+22,,,,,With Teacher,1,1,2,2,0,1,0,5,2,3,0.0375,"DST: 8:37
+Benton: 9:32
+Stroop: 32:51
+PST: 33:28
+VMT: 33:49","DST: 9:10
+Benton: 9:53
+Stroop:
+PST: 33:39
+VMT:","DST: 49
+Benton: 28
+Stroop: 27
+PST: 15
+VMT: 24",28,4,14,22,38,0.76,Claire,Completed
+22,,,,,No Windows-narrow,3,0,2,1,1,0,1,5,2,5,0.06097560976,"DST: 11:54
+Benton: 12:55
+Stroop: 26:12
+PST: 26:45
+VMT: 27:10","DST: 12:32, 12:47, 12:48
+Benton:
+Stroop: 26:23
+PST:
+VMT: 27:22","DST: 55
+Benton: 23
+Stroop: 27 
+PST: 19
+VMT: 29",29,5,14,15,30,0.5769230769,Claire,Completed
+22,,,,,Green Classroom,3,0,5,2,0,0,2,7,1,5,0.0641025641,"DST: 21:51
+Benton: 22:51
+Stroop: 37:46
+PST: 38:23
+VMT: 38:45","DST: 22:25, 22:28, 22:37
+Benton:
+Stroop:
+PST:
+VMT: 39:01, 39:03","DST: 54
+Benton: 24
+Stroop: 27
+PST: 16
+VMT: 28",27,3,11,12,23,0.4791666667,Claire,Completed
+22,,,,,No Windows-wide,3,0,3,1,1,1,0,3,1,5,0.0625,"DST: 13:38
+Benton: 14:36
+Stroop: 29:33
+PST: 30:09
+VMT: 30:33","DST: 14:13, 14:15, 14:29
+Benton:
+Stroop: 29:42
+PST: 30:14
+VMT:","DST: 53
+Benton: 22
+Stroop: 27
+PST: 17
+VMT: 26",28,4,13,22,37,0.74,Claire,Completed
+22,,,,,"No Windows-wide, bar",6,0,4,2,1,0,4,2,3,11,0.1358024691,"DST: 18:36
+Benton: 19:37
+Stroop: 34:25
+PST: 35:02
+VMT: 35:24","DST: 18:45, 18:46, 19:11, 19:12, 19:13, 19:29
+Benton:
+Stroop: 34:38
+PST:
+VMT: 35:33, 35:41, 35:47, 35:48","DST: 56
+Benton: 18
+Stroop: 27
+PST: 16
+VMT: 26",28,5,2,6,9,0.1764705882,Claire,Completed
+23,,subject23-Desktop 2018.08.16- 13.35.59.01.mp4,,,One Window,15,4,2,2,20,2,20,10,3,61,0.8591549296,"DST: 9:37
+Benton: 10:55
+Stroop: 29:56
+PST: 30:34
+VMT: 30:56","DST: 10:03, 10:17,10:23, 10:23 
+Benton: 
+Stroop: 30:17
+PST:
+VMT: 0:31:00, 31:25","DST: 71
+Benton: 20 
+Stroop: 27 
+PST: 15 
+VMT: 29",21,2,4,7,37,0.9024390244,Emme,Completed
+23,,,,,Two Windows,12,4,3,3,22,3,20,2,3,61,0.8356164384,"DST: 11:42
+Benton:12:55
+Stroop: 36:48
+PST: 37:26
+VMT: 37:49","DST: 0:12:00, 0:12:02, 0:12:20, 0:12:22, 0:12:22, 0:12:23, 0:12:24, 0:12:38, 0:12:39, 0:12:42
+Benton:
+Stroop:
+PST:
+VMT: 38:08, 38:12","DST: 65
+Benton: 21 
+Stroop: 26 
+PST: 16 
+VMT: 25 ",22,3,4,7,40,0.9302325581,Emme,Completed
+23,,,,,Blue Classroom,18,4,3,3,22,2,20,5,4,66,0.904109589,"DST: 13:43
+Benton: 14:54
+Stroop: 31:38
+PST: 32:15
+VMT: 32:40","DST: 0:14:41, 0:14:42, 0:14:43, 0:14:45
+Benton:
+Stroop: 32:03
+PST: 32:19, 32:25
+VMT: 33:07, 33:07","DST: 64
+Benton: 22 
+Stroop: 26 
+PST: 16 
+VMT: 28 ",23,2,6,7,41,0.9534883721,Emme,Completed
+23,,,,,Red Classroom,9,4,3,3,18,1,22,3,4,54,0.7941176471,"DST: 15:45
+Benton: 17:01
+Stroop: 33:27
+PST: 34:04
+VMT: 34:26","DST: 0:16:07, 0:16:12, 0:16:25, 0:16:27, 0:16:29, 0:16:30, 0:16:30, 0:16:45, 0:16:49, 0:16:50, 0:16:51, 0:16:52, 0:16:52
+Benton:
+Stroop:
+PST: 34:14
+VMT: ","DST: 68
+Benton: 22
+Stroop: 27
+PST: 16 
+VMT: 24 ",18,2,4,7,34,0.8947368421,Emme,Completed
+23,,,,,With Teacher,13,4,2,2,21,4,20,2,4,62,0.8493150685,"DST: 17:47
+Benton: 19:04
+Stroop: 35:07
+PST: 35:46
+VMT: 36:09","DST: 0:18:12, 0:18:14, 0:18:31, 0:18:33, 0:18:35, 0:18:36, 0:18:52, 0:18:54, 0:18:56
+Benton:
+Stroop: 35:32
+PST:
+VMT: 36:30, 36:31","DST: 70
+Benton: 19 
+Stroop: 26 
+PST: 16 
+VMT: 25 ",21,4,4,7,40,0.9302325581,Emme,Completed
+23,,,,,No Windows-narrow,14,3,2,2,22,3,21,3,3,63,0.8630136986,"DST: 19:49
+Benton: 21:07
+Stroop: 38:24 
+PST: 39:01
+VMT: 39:29","DST: 0:20:17, 0:20:30, 0:20:32, 0:20:36, 0:20:50, 0:20:54, 0:20:57, 0:20:58
+Benton: 21:21
+Stroop:
+PST:
+VMT: 39:53","DST: 70
+Benton: 19 
+Stroop: 26 
+PST: 15
+VMT: 28 ",22,3,4,7,39,0.9069767442,Emme,Completed
+23,,,,,Green Classroom,14,4,3,3,6,3,22,3,3,49,0.7538461538,"DST: 25:30
+Benton: 26:37
+Stroop: 40:10
+PST: 40:47
+VMT: 41:15","DST: 25:53, 26:03, 26:07, 26:08, 26:09, 26:10, 26:11, 26:28
+Benton:
+Stroop: 40:12, 40:14, 40:16, 40:21, 40:26, 40:27, 40:34, 40:36
+PST:
+VMT:","DST: 60 
+Benton:19  
+Stroop: 26 
+PST: 15 
+VMT: 23 ",14,3,4,7,24,0.6857142857,Emme,Completed
+23,,,,,No Windows-wide,20,4,2,2,19,3,22,3,3,68,0.9577464789,"DST: 23:38
+Benton: 24:53
+Stroop: 41:52
+PST: 42:31
+VMT: 43:00","DST: 24:19, 24:43
+Benton: 
+Stroop:
+PST: 42:35
+VMT:","DST: 68
+Benton: 19 
+Stroop: 26 
+PST: 15 
+VMT: 23 ",19,4,5,7,38,0.9268292683,Emme,Completed
+23,,,,,"No Windows-wide, bar",16,3,2,2,15,3,22,2,2,59,0.8805970149,"DST: 21:46
+Benton: 22:54
+Stroop: 28:19
+PST: 28:56
+VMT: 29:18","DST: 22:07,22:10, 22:28, 22:40, 22:41, 22:43 
+Benton: 22:59
+Stroop: 28:36
+PST:
+VMT:","DST: 60 
+Benton: 22 
+Stroop: 26 
+PST: 16 
+VMT: 26 ",16,3,4,7,32,0.8648648649,Emme,Completed
+24,,,,,One Window,,,3,3,25,4,22,7,2,51,0.6623376623,"DST: 21:17
+Benton: 22:24
+Stroop: 34:20
+PST: 35:04
+VMT: 35:25","DST: 21:56, 22:14
+Benton:
+Stroop:
+PST: 
+VMT:","DST: 58
+Benton: 22
+Stroop: 26
+PST: 15
+VMT: 25",25,4,14,7,50,1.063829787,Matthew,Validation Needed
+24,,,,,Two Windows,18,5,2,5,22,4,22,2,3,71,0.9466666667,"DST: 9:11 
+Benton: 10:20 
+DST: 11:05 
+Benton: 12:14
+Stroop: 43:08
+PST: 43:50
+VMT: 44:12","DST: 10:00, 10:08, 10:09, 10:10 
+DST: 11:57, 11:59, 12:00
+Benton:
+Stroop:
+PST: 44:04
+VMT:","DST: 61
+Benton: 24
+Benton: 25
+Stroop: 26
+PST: 15
+VMT: 25",22,5,14,7,52,1.155555556,Matthew,Validation Needed
+24,,,,,Blue Classroom,16,5,3,4,18,2,22,1,3,63,0.9264705882,"DST: 19:04
+Benton: 20:20
+Stroop: 29:09
+PST: 29:46
+VMT: 30:09","DST: 19:47: 20:00, 20:01, 20:08, 20:11, 20:12
+Benton: 
+Stroop:
+PST:
+VMT:","DST: 70
+Benton: 23
+Stroop: 27
+PST: 16 
+VMT: 26",18,2,14,7,46,1.210526316,Matthew,Validation Needed
+24,,,,,Red Classroom,17,5,3,5,13,3,22,6,5,60,0.8823529412,"DST: 25:37
+Benton: 26:56
+Stroop: 30:49
+PST: 31:26
+VMT: 31:49","DST: 26:20, 26:24, 26:25, 26:28, 26:44 
+Benton: 
+Stroop: 30:51, 30:52, 30:57, 31:05
+PST: 
+VMT: ","DST: 70
+Benton: 21
+Stroop: 26
+PST: 18
+VMT: 27",17,3,11,7,39,1.026315789,Matthew,Validation Needed
+24,,,,,With Teacher,20,5,2,4,25,3,21,8,3,74,0.961038961,"DST: 13:07
+Benton: 14:14
+Stroop: 39:43
+PST: 40:20
+VMT: 40:41","DST: 13:41, 14:04
+Benton: 
+Stroop: 40:08
+PST:
+VMT: 40:55","DST: 58
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 24",26,3,14,12,59,1.255319149,Matthew,Validation Needed
+24,,,,,No Windows-narrow,18,5,2,3,23,4,22,3,3,72,0.96,"DST: 15:07
+Benton: 16:14
+Stroop: 36:09
+PST: 36:50
+VMT: 37:12","DST: 15:42, 15:46, 15:47, 16:05
+Benton: 
+Stroop:
+PST:
+VMT:","DST: 60
+Benton: 25
+Stroop: 26
+PST: 15
+VMT: 22",23,4,10,7,49,1.088888889,Matthew,Validation Needed
+24,,,,,Green Classroom,15,5,3,3,11,4,22,3,3,57,0.8636363636,"DST: 17:05
+Benton: 18:22
+Stroop: 41:20
+PST: 41:56
+VMT: 42:18","DST: 17:43, 17:45, 17:48, 17:53, 17:54, 18:13, 18:14
+Benton: 
+Stroop: 41:23, 41:32, 41:42
+PST:
+VMT:","DST: 70
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 26",14,4,9,7,36,1,Matthew,Validation Needed
+24,,,,,No Windows-wide,20,5,3,2,22,4,22,6,3,73,0.9733333333,"DST: 23:20
+Benton: 24:39
+Stroop: 37:55
+PST: 38:32
+VMT: 38:54","DST: 24:02, 24:26
+Benton:
+Stroop: 
+PST:
+VMT:","DST: 69
+Benton: 28
+Stroop: 26
+PST: 15
+VMT: 23",23,4,14,7,52,1.155555556,Matthew,Validation Needed
+24,,,,,"No Windows-wide, bar",19,5,2,4,17,3,22,1,3,66,0.9705882353,"DST: 11:06
+Benton: 12:14
+Stroop: 32:32
+PST: 33:09
+VMT: 33:37","DST: 11:57, 11:59, 12:00 
+Benton: 
+Stroop: 
+PST:
+VMT:","DST: 61
+Benton: 26
+Stroop: 27
+PST: 15
+VMT: 24",17,3,17,7,49,1.289473684,Matthew,Validation Needed
+25,,subject25 - Desktop 2018.08.21 - 14.23.56.02,,,One Window,13,4,7,4,N/A,N/A,N/A,9,N/A,#VALUE!,#VALUE!,"DST: 10:46
+Benton:11:59
+Stroop:
+PST:
+VMT:","DST: 10:56, 10:56, 11:12, 11:13, 11:25, 11:27, 11:42, 11:32, 11:50
+Benton:
+Stroop:
+PST:
+VMT:","DST: 66
+Benton: 22
+Stroop: 
+PST: 
+VMT: ",N/A,N/A,5,N/A,#VALUE!,#VALUE!,Emme,Incomplete Data  Set
+25,,,,,Two Windows,18,4,7,4,N/A,N/A,N/A,1,N/A,#VALUE!,#VALUE!,"DST: 14:29
+Benton: 15:39
+Stroop:
+PST:
+VMT:","DST: 15:05, 15:08, 15:13, 15:28
+Benton:
+Stroop:
+PST:
+VMT:","DST: 62 
+Benton: 19 
+Stroop: 
+PST: 
+VMT: ",N/A,N/A,5,N/A,#VALUE!,#VALUE!,Emme,Incomplete Data  Set
+25,,,,,Blue Classroom,16,4,8,5,N/A,N/A,N/A,1,N/A,#VALUE!,#VALUE!,"DST: 20:26
+Benton: 21:38
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",N/A,N/A,5,N/A,#VALUE!,#VALUE!,Emme,Incomplete Data  Set
+25,,,,,Red Classroom,14,4,8,5,N/A,N/A,N/A,4,N/A,#VALUE!,#VALUE!,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",N/A,N/A,4,N/A,#VALUE!,#VALUE!,Emme,Incomplete Data  Set
+25,,,,,With Teacher,19,4,7,4,N/A,N/A,N/A,8,N/A,#VALUE!,#VALUE!,"DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:","DST: 
+Benton:
+Stroop:
+PST:
+VMT:",N/A,N/A,5,N/A,#VALUE!,#VALUE!,Emme,Incomplete Data  Set
+25,,,,,No Windows-narrow,20,4,6,4,N/A,N/A,N/A,2,N/A,#VALUE!,#VALUE!,"DST: 8:55
+Benton: 10:03
+Stroop:
+PST:
+VMT:","DST: 9:34, 9:54, 9:55
+Benton:
+Stroop: 
+PST:
+VMT:","DST: 61 
+Benton: 21 
+Stroop: 
+PST: 
+VMT: ",N/A,N/A,5,N/A,#VALUE!,#VALUE!,Emme,Incomplete Data  Set
+25,,,,,Green Classroom,14,4,7,5,N/A,N/A,N/A,1,N/A,#VALUE!,#VALUE!,"DST: 12:40
+Benton:13:46
+Stroop: 
+PST:
+VMT:","DST: 12:48, 12:50, 13:04, 13:20, 13:34, 13:36, 13:37
+Benton:
+Stroop:
+PST:
+VMT:","DST: 58 
+Benton: 19 
+Stroop: 
+PST: 
+VMT: ",N/A,N/A,5,N/A,#VALUE!,#VALUE!,Emme,Incomplete Data  Set
+25,,,,,No Windows-wide,15,4,8,5,N/A,N/A,N/A,2,N/A,#VALUE!,#VALUE!,"DST: 18:23
+Benton: 19:37
+Stroop:
+PST:
+VMT:","DST: 18:32, 18:33, 18:50, 19:06, 19:08, 19:25, 19:26
+Benton:
+Stroop:
+PST:
+VMT:","DST: 67
+Benton: 20
+Stroop: 
+PST: 
+VMT: ",N/A,N/A,4,N/A,#VALUE!,#VALUE!,Emme,Incomplete Data  Set
+25,,,,,"No Windows-wide, bar",12,4,8,5,N/A,N/A,N/A,8,N/A,#VALUE!,#VALUE!,"DST: 16:29
+Benton: 17:38
+Stroop:
+PST:
+VMT:","DST: 16:39, 16:41, 17:10, 17:11, 17:14, 17:26, 17:27, 17:29, 17:29, 17:30 
+Benton:
+Stroop:
+PST:
+VMT: ","DST: 62 
+Benton: 21 
+Stroop: 
+PST: 
+VMT: ",N/A,N/A,5,N/A,#VALUE!,#VALUE!,Emme,Incomplete Data  Set
+26,,subject26 - Desktop2019.08.24 - 10.09.27.01,,,One Window,1,0,4,4,1,1,0,10,6,3,0.04109589041,"DST: 15:58 
+Benton: 17:04
+Stroop: 36:51
+PST: 37:24
+VMT: 37:52","DST: 16:37
+Benton:
+Stroop: 37:13
+PST: 37:34
+VMT:","DST: 63
+Benton: 23
+Stroop: 28
+PST: 21
+VMT: 28",21,4,14,22,38,0.8837209302,Claire,Validation Needed
+26,,,,,Two Windows,2,0,5,5,1,2,0,7,5,5,0.06578947368,"DST: 20:08
+Benton: 21:04
+Stroop: 47:29
+PST: 48:05
+VMT: 48:27","DST: 20:27, 20:42
+Benton:
+Stroop: 47:48
+PST: 48:13, 48:20
+VMT:","DST: 53
+Benton: 26
+Stroop: 16
+PST: 17
+VMT: 29",24,4,8,22,33,0.7173913043,Claire,Completed
+26,,,,,Blue Classroom,2,0,5,5,0,1,9,4,8,12,0.1621621622,"DST: 23:51
+Benton: 24:49
+Stroop: 45:30
+PST: 46:09
+VMT: 46:31","DST: 24:26, 24:42
+Benton:
+Stroop:
+PST: 46:18
+VMT: 46:39, 46:41, 46:51, 46:55, 46:56, 46:59, 47:00, 47:01, 47:13","DST: 52
+Benton: 25
+Stroop: 28
+PST: 16
+VMT: 45",22,4,14,7,22,0.5,Claire,Completed
+26,,,,,Red Classroom,3,0,6,6,0,0,0,10,6,3,0.04109589041,"DST: 21:50
+Benton: 23:06
+Stroop: 34:53
+PST: 35:27
+Visual: 35:53","DST: 22:33, 22:49, 22:53
+Benton:
+Stroop:
+PST:
+VMT:","DST: 68
+Benton: 26
+Stroop: 29
+PST: 20
+VMT: 30",21,4,22,7,29,0.6744186047,Claire,Completed
+26,,,,,With Teacher,2,0,4,4,0,0,0,3,6,2,0.02597402597,"DST: 14:09
+Benton: 15:10
+Stroop: 40:18
+PST: 40:56
+VMT: 41:20","DST: 14:46, 15:01
+Benton:
+Stroop:
+PST:
+VMT:","DST: 57
+Benton: 32
+Stroop: 17
+PST: 18
+VMT: 28",26,3,22,7,29,0.6170212766,Claire,Completed
+26,,,,,No Windows-narrow,4,0,5,4,1,0,2,7,7,7,0.09333333333,"DST: 17:52
+Benton: 18:53 
+Stroop: 42:04
+PST: 42:40
+VMT: 43:02","DST: 18:25, 18:27, 18:28, 18:44
+Benton:
+Stroop: 42:22
+PST:
+VMT: 43:22, 43:30","DST: 53 
+Benton: 22
+Stroop: 35
+PST: 16
+VMT: 32",24,3,12,13,26,0.5777777778,Claire,Completed
+26,,,,,Green Classroom,6,0,1,3,4,1,1,3,6,12,0.1666666667,"DST: 12:13
+Benton: 13:21
+Stroop: 32:57
+PST: 33:30
+VMT: 33:57","DST: 12:33, 12:34, 12:45, 12:47
+Benton: 
+Stroop: 33:01, 33:03, 33:08, 33:10 
+PST: 33:39, 33:44
+VMT: 34:32","DST: 64
+Benton: 27
+Stroop: 30
+PST: 21
+VMT: 37",20,4,5,21,31,0.7380952381,Claire,Completed
+26,,,,,No Windows-wide,3,1,6,6,0,1,2,2,7,7,0.09210526316,"DST: 25:57
+Benton: 26:56
+Stroop: 43:50
+PST: 44:27
+VMT:44:49","DST: 26:32, 26:48
+Benton: 27:16
+Stroop:
+PST: 44:32
+VMT: 45:08, 45:16","DST: 53
+Benton: 21
+Stroop: 27
+PST: 17
+VMT: 29",24,4,14,13,29,0.6304347826,Claire,Completed
+26,,,,,"No Windows-wide, bar",2,0,7,6,1,1,0,4,6,4,0.05128205128,"DST: 27:36
+Benton: 28:37
+Stroop: 38:32
+PST: 39:06
+VMT: 39:33","DST: 28:12, 28:30
+Benton:
+Stroop: 38:42
+PST: 39:23
+VMT:
+","DST: 54
+Benton: 25
+Stroop: 27
+PST: 20
+VMT: 27",26,4,14,22,38,0.7916666667,Claire,Completed
+27,,,,,One Window,14,4,1,1,18,2,21,1,1,59,0.8676470588,"DST: 18:34
+Benton: 19:43
+Stroop: 33:34
+PST: 34:11
+VMT: 34:35","DST: 19:13, 19:14, 19:15, 19:30, 19:30, 19:34, 19:35
+Benton:
+Stroop:
+PST:
+VMT: 34:40","DST: 62
+Benton: 22
+Stroop: 26
+PST: 15
+VMT: 29",18,2,4,7,35,0.9210526316,Vidushi,Completed
+27,,,,,Two Windows,15,4,1,1,17,3,20,2,1,59,0.8676470588,"DST: 12:57
+Benton: 14:03
+Stroop: 30:02
+PST: 30:40
+VMT: 31:04","DST: 13:28, 13:32, 13:33, 13:35, 13:39, 13:55
+Benton:
+Stroop:
+PST:
+VMT: 31:24, 31:32","DST: 59
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 29",17,3,5,4,33,0.8684210526,Vidushi,Completed
+27,,,,,Blue Classroom,17,3,1,1,15,3,20,8,1,58,0.8529411765,"DST: 22:00
+Benton: 23:04
+Stroop: 31:47
+PST: 32:23
+VMT: 32:48","DST: 22:37, 22:53, 22:54, 22:55 
+Benton: 23:29
+Stroop: 32:08, 32:09
+PST:
+VMT: 33:06, 33:08","DST: 57
+Benton: 25
+Stroop: 26
+PST: 15
+VMT: 32",17,3,5,4,30,0.7894736842,Vidushi,Completed
+27,,,,,Red Classroom,17,3,1,3,10,0,15,1,1,45,0.75,"DST: 16:41
+Benton: 17:50
+Stroop: 39:21
+PST: 40:00
+VMT: 40:23","DST: 17:02, 17:03, 17:22, 17:40 
+Benton: 18:13
+Stroop: 39:32
+PST: 40:14
+VMT: 40:38, 40:40, 40:50, 40:51, 40:54, 40:55, 40:55","DST: 63
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 34",11,1,4,4,21,0.7,Vidushi,Completed
+27,,,,,With Teacher,16,3,1,4,18,3,21,4,2,61,0.884057971,"DST: 14:47
+Benton: 15:56
+Stroop: 26:32
+PST: 27:09
+VMT: 27:32","DST: 15:20, 15:25, 15:30, 15:46, 15:47 
+Benton: 16:09
+Stroop:
+PST:
+VMT: 27:40","DST: 62
+Benton: 27
+Stroop: 26
+PST: 15
+VMT: 32",18,3,5,7,36,0.9230769231,Vidushi,Completed
+27,,,,,No Windows-narrow,16,4,1,1,13,2,20,1,1,55,0.8461538462,"DST: 23:44
+Benton: 24:50
+Stroop: 41:12
+PST: 41:49
+VMT: 42:11","DST: 24:23, 24:25, 24:25, 24:40, 24:41
+Benton: 
+Stroop: 41:17, 41:35
+PST:
+VMT: 42:16, 42:42","DST: 60
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 32",15,2,5,7,31,0.8857142857,Vidushi,Completed
+27,,,,,Green Classroom,15,4,1,1,9,0,12,6,1,40,0.6451612903,"DST: 9:32
+Benton: 10:38
+Stroop: 37:09
+PST: 37:47
+VMT: 38:10","DST: 10:07, 10:08, 10:10, 10:27, 10:28, 10:29
+Benton:
+Stroop: 37:12, 37:20, 37:29, 37:36
+PST: 37:54
+VMT: 38:22, 38:38, 38:42, 38:43, 38:44, 38:47, 38:48, 38:50, 38:51, 39:02","DST: 59
+Benton: 20
+Stroop: 26
+PST: 15
+VMT: 55",13,1,5,4,22,0.6875,Vidushi,Completed
+27,,,,,No Windows-wide,18,2,1,1,14,1,22,4,1,57,0.890625,"DST: 20:20
+Benton: 21:23
+Stroop: 28:20
+PST: 28:58
+VMT: 29:20","DST: 20:59, 21:12, 21:13
+Benton: 21:35, 21:45
+Stroop: 28:37
+PST:
+VMT:","DST: 56
+Benton: 22
+Stroop: 26
+PST: 15
+VMT: 28",15,1,5,7,29,0.8529411765,Vidushi,Completed
+27,,,,,"No Windows-wide, bar",17,1,1,1,14,2,21,6,1,55,0.859375,"DST: 11:15
+Benton: 12:19
+Stroop: 35:23
+PST: 36:04
+VMT: 36:26","DST: 11:52, 11:53, 12:07, 12:11
+Benton: 12:39
+Stroop:
+PST:
+VMT: 36:30","DST: 58
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 26",14,2,5,7,29,0.8529411765,Vidushi ,Completed
+28,,subject28 - Desktop 2018.08.24 - 16.27.41.02,,,One Window,11,4,??,??,25,1,22,1,??,63,0.8289473684,"DST: 22:52
+Benton: 24:04
+Stroop: 40:04
+PST: 40:42
+VMT: 41:06","DST: 23:09, 23:27, 23:33, 23:35, 23:46, 23:48, 23:51, 23:53, 23:55
+Benton: all correct
+Stroop: all correct
+PST: 40:50, 40:55
+VMT: all correct","DST: 65
+Benton: 21
+Stroop: 26
+PST: 16
+VMT: 26",25,3,0,7,37,0.8043478261,Elita,Completed
+28,,,,,Two Windows,20,4,4,1,21,3,21,4,1,69,0.9452054795,"DST: 26:46
+Benton: 27:55
+Stroop: 43:31
+PST: 44:07
+VMT: 44:29","DST: 27:41
+Benton: all correct
+Stroop: all correct
+PST: 44:13
+VMT: 44:37","DST: 63
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 19",21,4,7,7,42,0.976744186,Elita,Completed
+28,,,,,Blue Classroom,14,4,3,1,20,3,22,3,1,63,0.875,"DST: 24:46
+Benton: 26:00
+Stroop: 34:51
+PST: 35:27
+VMT: 35:58","DST: 25:29, 25:39, 25:43, 25:44, 25:45, 25:50, 25:51
+Benton: all correct
+Stroop: 35:08
+PST: all correct
+VMT: all correct","DST: 66
+Benton: 25
+Stroop: 26
+PST: 16
+VMT: 27",21,3,5,7,39,0.9285714286,Elita,Completed
+28,,,,,Red Classroom,13,4,3,1,15,3,22,10,1,57,0.8382352941,"DST: 28:31
+Benton: 29:41
+Stroop: 33:10
+PST: 33:48
+VMT: 34:10","DST: 29:09, 29:12, 29:22, 29:25, 29:27, 29:29, 29:31, 29:35
+Benton: all correct
+Stroop: 33:24, 33:26
+PST: all correct
+VMT: all correct","DST: 64
+Benton: 21
+Stroop: 27
+PST: 15
+VMT: 26",17,3,5,7,34,0.8947368421,Elita,Completed
+28,,,,,With Teacher,13,2,3,1,27,2,21,7,1,65,0.8441558442,"DST: 16:51
+Benton: 18:10
+Stroop: 36:40
+PST: 37:17
+VMT: 37:40","DST: 17:33, 17:35, 17:42, 17:52, 17:56, 17:59, 18:00, 18:01
+Benton: 18:28, 18:35
+Stroop: all correct
+PST: all correct
+VMT: 37:46","DST: 72
+Benton: 25
+Stroop: 26
+PST: 15
+VMT: 26",27,2,5,7,43,0.914893617,Elita,Completed
+28,,,,,No Windows-narrow,11,3,4,1,28,2,22,2,1,66,0.8461538462,"DST: 20:54
+Benton: 22:07
+Stroop: 31:28
+PST: 32:07
+VMT: 32:29","DST: 21:07, 21:18, 21:19, 21:21, 21:37, 21:46, 21:49, 21:50, 21:52, 21:54
+Benton: 22:23
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 65
+Benton: 22
+Stroop: 26
+PST: 14
+VMT: 28",28,2,0,7,40,0.8333333333,Elita,Completed
+28,,,,,Green Classroom,13,4,3,1,17,2,22,2,1,58,0.8169014085,"DST: 12:19
+Benton: 13:34
+Stroop: 38:20
+PST: 38:57
+VMT: 39:22","DST: 12:27, 12:35, 13:06, 13:07, 13:17, 13:22, 13:25, 13:26
+Benton: all correct
+Stroop: 38:27, 38:35, 38:38, 38:42
+PST: all correct
+VMT: all correct","DST: 68
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 26",21,2,0,7,30,0.7317073171,Elita,Completed
+28,,,,,No Windows-wide,18,4,3,1,19,3,20,9,1,64,0.8888888889,"DST: 18:59
+Benton: 20:09
+Stroop: 45:15
+PST: 45:51
+VMT: 46:14","DST: 19:59, 19:59, 20:01
+Benton: all correct
+Stroop: 45:23, 45:24
+PST: all correct
+VMT: 46:44, 46:44","DST: 63
+Benton: 23
+Stroop: 25
+PST: 15
+VMT: 36",21,3,6,7,39,0.9285714286,Elita,Completed
+28,,,,,"No Windows-wide, bar",15,3,7,1,31,2,21,3,1,72,0.8888888889,"DST: 14:17
+Benton: 15:38
+Stroop: 41:46
+PST: 42:23
+VMT: 42:48","DST: 14:43, 15:14, 15:22, 15:22, 15:26, 15:29
+Benton: 16:03
+Stroop: all correct
+PST: all correct
+VMT: 43:10","DST: 74
+Benton: 25
+Stroop: 26
+PST: 16
+VMT: 27",31,2,4,7,47,0.9215686275,Elita,Completed
+29,,,,,One Window,,,,,,,,2,,0,0,"DST: 29:24
+Benton: 30:40
+Stroop:
+PST:
+VMT:","DST: 29:47, 30:03, 30:05, 30:11, 30:30, 30:31, 30:33
+Benton:
+Stroop:
+PST:
+VMT:","DST: 70
+Benton: 25
+Stroop: ??
+PST: ??
+VMT: ??",,,5,,5,0.2777777778,Nina,Incomplete Data  Set
+29,,,,,Two Windows,,,,,,,,10,,0,0,"DST: 25:21
+Benton:26:33
+Stroop:
+PST:
+VMT:","DST: 26:20
+Benton: Can't read answers
+Stroop:
+PST:
+VMT:","DST: 39
+Benton:
+Stroop:
+PST:
+VMT:",,,6,,6,0.3333333333,Nina,Incomplete Data  Set
+29,,,,,Blue Classroom,,,,,,,,5,,0,0,"DST: 19:11
+Benton: 20:31
+Stroop:
+PST:
+VMT:","DST: 19:52, 20:06, 20:10, 20:11
+Benton:Can't Read Answers
+Stroop:
+PST:
+VMT:","DST: 75
+Benton: 36
+Stroop:
+PST:
+VMT:",,,5,,5,0.2777777778,Nina,Incomplete Data  Set
+29,,,,,Red Classroom,,,,,,,,3,,0,0,"DST: 21:16
+Benton:22:31
+Stroop:
+PST:
+VMT:","DST: 22:05, 22:22
+Benton: Can't Read Answers
+Stroop:
+PST:
+VMT:","DST: 73
+Benton: 31
+Stroop:
+PST:
+VMT:",,,5,,5,0.2777777778,Nina,Incomplete Data  Set
+29,,,,,With Teacher,,,,,,,,4,,0,0,"DST: 15:09
+Benton: 16:17
+Stroop: 
+PST:
+VMT:","DST: 16:00, 16:10
+Benton:
+Stroop:
+PST:
+VMT:","DST: 62
+Benton: 103
+Stroop:
+PST:
+VMT:",,,5,,5,0.2777777778,Nina,Incomplete Data  Set
+29,,,,,No Windows-narrow,,,,,,,,6,,0,0,"DST: 23:16
+Benton:24:26
+Stroop:
+PST:
+VMT:","DST: 24:04, 24:21
+Benton: 24:56
+Stroop:
+PST:
+VMT:","DST: 65
+Benton: 30
+Stroop:
+PST:
+VMT:",,,5,,5,0.2777777778,Nina,Incomplete Data  Set
+29,,,,,Green Classroom,,,,,,,,6,,0,0,"DST: 12:53
+Benton:14:06
+Stroop: 32:38
+PST:33:09
+VMT:33:39","DST: 0:13:37, 0:13:56
+Benton: 0:14:32
+Stroop: 0:34:32, 0:33:05
+PST:
+VMT:","DST: 54
+Benton:27
+Stroop: 27
+PST: 25
+VMT: 39",13,2,5,7,12,0.3636363636,Nina,Incomplete Data  Set
+29,,,,,No Windows-wide,,,,,,,,4,,0,0,"DST: 17:10
+Benton: 18:25
+Stroop:
+PST:
+VMT:","DST: 17:21, 18:10, 18:17
+Benton: Can't See Answers
+Stroop:
+PST:
+VMT:","DST: 71
+Benton: 18:50
+Stroop:
+PST:
+VMT:",,,6,,6,0.3333333333,Nina,Incomplete Data  Set
+29,,,,,"No Windows-wide, bar",,,,,,,,5,,0,0,"DST: 27:29
+Benton:28:36
+Stroop:
+PST:
+VMT:","DST: 0:28:13, 0:28:29
+Benton:
+Stroop:
+PST:
+VMT:","DST: 60
+Benton: 29
+Stroop:
+PST:
+VMT:",,,5,,5,0.2777777778,Nina,Incomplete Data  Set
+30,,,,,One Window,20,4,3,3,24,2,16,2,3,66,0.8918918919,"DST: 23:38
+Benton: 24:38
+Stroop: 28:07
+PST: 28:47
+VMT: 29:09","DST: 24:22, 24:30
+Benton:
+Stroop:
+PST:
+VMT: 29:14, 29:19, 29:26, 29:26, 29:37, 29:38","DST: 53
+Benton: 26
+Stroop: 29
+PST: 15
+VMT: 30",24,2,5,0,35,0.7954545455,Elita,Completed
+30,,,,,Two Windows,20,4,4,2,27,3,21,7,3,75,0.9493670886,"DST: 14:54
+Benton: 15:46
+Stroop: 31:30
+PST: 32:07
+VMT: 32:38","DST: 15:37, 15:42
+Benton:
+Stroop:
+PST: 32:16
+VMT: 32:38","DST: 49
+Benton: 24
+Stroop: 26
+PST: 26
+VMT: 15",27,4,5,7,46,0.9387755102,Elita,Completed
+30,,,,,Blue Classroom,20,4,6,3,22,1,21,2,3,68,0.9315068493,"DST: 13:00
+Benton: 14:02
+Stroop: 33:06
+PST: 33:43
+VMT: 34:05","DST: 13:48, 13:54
+Benton:
+Stroop: 33:26
+PST: 33:53
+VMT: 34:23","DST: 55
+Benton: 30
+Stroop: 26
+PST: 17
+VMT: 31",23,2,5,7,39,0.9069767442,Elita,Completed
+30,,,,,Red Classroom,20,3,5,4,13,4,20,3,3,60,0.8571428571,"DST: 21:57
+Benton: 22:53
+Stroop: 41:28
+PST: 42:07
+VMT: 42:33","DST: 22:16, 22:18
+Benton:
+Stroop: 41:30, 41:30, 41:35, 41:35, 41:50
+PST:
+VMT: 43:02, 43:03","DST: 51
+Benton: 22
+Stroop: 27
+PST: 15
+VMT: 30",18,4,7,7,34,0.85,Elita,Completed
+30,,,,,With Teacher,21,3,6,4,26,3,20,4,3,73,0.9240506329,"DST: 16:33
+Benton: 17:40
+Stroop: 38:13
+PST: 38:51
+VMT: 39:14","DST: 17:32
+Benton: 17:46
+Stroop:
+PST: 39:02, 39:05
+VMT: 39:21, 39:35","DST: 62
+Benton: 36
+Stroop: 27
+PST: 15
+VMT: 23",26,5,6,7,45,0.9183673469,Elita,Completed
+30,,,,,No Windows-narrow,18,4,4,3,23,3,22,4,3,70,0.9459459459,"DST: 18:38
+Benton: 19:38
+Stroop: 29:54
+PST: 30:31
+VMT: 30:54","DST: 19:07, 19:13, 19:25, 19:30
+Benton:
+Stroop:
+PST:
+VMT:","DST: 53
+Benton: 21
+Stroop: 28
+PST: 16
+VMT: 23",23,3,5,7,42,0.9545454545,Elita,Completed
+30,,,,,Green Classroom,18,3,4,4,18,3,20,3,3,62,0.7948717949,"DST: 20:20
+Benton: 21:14
+Stroop: 34:51
+PST: 35:19
+VMT: 35:52","DST: 20:48, 20:50, 21:03, 21:08
+Benton:
+Stroop: 34:54, 34:56, 34:59, 35:00, 35:08, 35:14, 35:16 
+PST:
+VMT: 35:55, 36:12","DST: 49
+Benton: 23
+Stroop: 27
+PST: 26
+VMT: 24",27,3,5,7,36,0.75,Elita,Completed
+30,,,,,No Windows-wide,20,4,4,2,24,5,21,3,3,74,0.961038961,"DST: 25:17
+Benton: 26:15
+Stroop: 39:53
+PST: 40:29
+VMT: 40:51","DST: 25:59, 26:05
+Benton:
+Stroop:
+PST:
+VMT: 40:55","DST: 50
+Benton: 26
+Stroop: 25
+PST: 15
+VMT: 25",24,5,5,7,45,0.9574468085,Elita,Completed
+30,,,,,"No Windows-wide, bar",19,4,5,8,24,3,19,4,2,69,0.92,"DST: 11:10
+Benton: 12:09
+Stroop: 36:36
+PST: 37:14
+VMT: 37:35","DST: 11:18, 11:57, 12:01
+Benton:
+Stroop:
+PST:
+VMT: 37:39, 37:53, 37:53","DST: 52
+Benton: 20
+Stroop: 26
+PST: 14
+VMT: 26",24,3,5,7,43,0.9555555556,Elita,Completed
+31,,,,,One Window,16,4,6,5,28,2,22,7,8,72,0.9230769231,"DST: 13:23
+Benton: 14:29
+Stroop: 43:35
+PST: 44:12
+VMT: 44:34","DST: 13:48, 14:00, 14:03, 14:22
+Benton: N/A
+Stroop: N/A
+PST: N/A
+VMT: N/A","DST: 59
+Benton: 24
+Stroop: 28
+PST: 15
+VMT: 25",28,2,4,7,45,0.9375,Kyra,Completed
+31,,,,,Two Windows,15,4,7,7,18,2,22,N/A,6,61,0.8970588235,"DST: 23:49
+Benton: 24:53
+Stroop: 28:40
+PST: 29:17
+VMT: 29:39","DST: 24:21, 24:22, 24:26, 24:41, 24:44
+Benton: N/A
+Stroop: N/A
+PST: N/A
+VMT: N/A","DST: 56
+Benton: 25
+Stroop: 28
+PST: 15
+VMT: 27",18,2,5,7,36,0.9473684211,Kyra,Completed
+31,,,,,Blue Classroom,12,3,6,6,25,1,22,4,6,63,0.84,"DST: 9:19
+Benton: 10:34
+Stroop: 34:10
+PST: 34:47
+VMT: 35:09","DST: 9:58, 10:00, 10:01,
+10:15, 10:17, 10:19, 10:22,
+10:25
+Benton: 10:44
+Stroop: N/A
+PST: 34:53
+VMT: N/A","DST: 66
+Benton: 23
+Stroop: 27
+PST: 15
+VMT: 28",25,2,5,7,41,0.9111111111,Kyra,Completed
+31,,,,,Red Classroom,15,4,8,7,11,3,11,3,8,44,0.6769230769,"DST: 25:45
+Benton: 26:50
+Stroop: 36:00
+PST: 36:37
+VMT: 36:58","DST: 26:20, 26:32, 26:36, 26:42, 26:42
+Benton: N/A
+Stroop: 36:06, 36:18
+PST: 36:52
+VMT: 37:20, 37:24, 37:28, 37:36, 37:37, 37:38, 37:41, 37:44, 37:48, 37:49, 37:51","DST: 59
+Benton: 25
+Stroop: 27
+PST: 15
+VMT: 56",13,4,5,5,28,0.8,Kyra,Completed
+31,,,,,With Teacher,15,2,7,7,16,0,22,4,6,55,0.8461538462,"DST: 17:37
+Benton: 18:53
+Stroop: 32:21
+PST: 32:57
+VMT: 33:21","DST: 18:12,18:19, 18:20, 18:40, 18:44
+Benton: 18:59, 19:20
+Stroop: 32:33
+PST: N/A
+VMT: N/A","DST: 70
+Benton: 35
+Stroop: 26
+PST: 15
+VMT: 26",17,0,5,7,30,0.8571428571,Kyra,Completed
+31,,,,,No Windows-narrow,12,4,7,6,27,4,22,2,7,69,0.8734177215,"DST: 15:23
+Benton: 16:35
+Stroop: 38:18
+PST: 38:55
+VMT: 39:18","DST: 15:35, 15:36, 16:05, 16:06, 16:19, 16:21, 16:22, 16:24
+Benton: N/A
+Stroop: N/A
+PST: N/A
+VMT: N/A","DST: 62
+Benton: 26
+Stroop: 26
+PST: 15
+VMT: 25",27,4,0,7,42,0.8571428571,Kyra,Completed
+31,,,,,Green Classroom,14,4,7,7,8,3,22,6,7,51,0.796875,"DST: 21:55
+Benton: 23:05
+Stroop: 39:58
+PST: 40:35
+VMT: 41:00","DST: 22:33, 22:43, 22:47, 22:53, 22:53, 22:54
+Benton: N/A
+Stroop: 40:04, 40:08, 40:11, 40:19, 40:21
+PST: N/A
+VMT: N/A","DST: 57
+Benton: 24
+Stroop: 27
+PST: 15
+VMT: 26",13,3,5,7,27,0.7941176471,Kyra,Completed
+31,,,,,No Windows-wide,18,4,6,6,23,3,22,7,6,70,0.9459459459,"DST: 11:31
+Benton: 12:33
+Stroop: 30:29
+PST: 31:05
+VMT: 31:31","DST: 12:09, 12:24
+Benton: N/A
+Stroop: N/A
+PST: N/A
+VMT: N/A","DST: 54
+Benton: 24
+Stroop: 26
+PST: 16
+VMT: 26",23,3,5,7,42,0.9545454545,Kyra,Completed
+31,,,,,"No Windows-wide, bar",18,4,7,6,23,1,22,4,7,68,0.9315068493,"DST: 19:58
+Benton: 20:58
+Stroop: 41:46
+PST: 42:23
+VMT: 42:45","DST: 20:36, 20:51
+Benton: N/A
+Stroop: N/A
+PST: 42:36
+VMT: N/A","DST: 53
+Benton: 28
+Stroop: 27
+PST: 15
+VMT: 27",23,2,5,7,40,0.9302325581,Kyra,Completed
+32,,subject32 - Desktop 2018.08.26 - 16.41.01.06,,,One Window,18,4,4,6,21,2,22,7,8,67,0.9305555556,"DST: 10:56
+Benton: 12:06
+Stroop: 38:20
+PST: 39:00
+VMT: 39:28","DST: 11:42, 11:52, 11:58
+Benton: all correct
+Stroop: all correct
+PST: 39:07
+VMT: all correct","DST: 62
+Benton: 23
+Stroop: 27
+PST: 16
+VMT: 32",21,3,6,7,40,0.9523809524,Elita,Completed
+32,,,,,Two Windows,15,4,7,7,15,1,22,1,7,57,0.890625,"DST: 18:43
+Benton: 19:49
+Stroop: 34:45
+PST: 35:21
+VMT: 35:43","DST: 19:17, 19:19, 19:22, 19:32, 19:39, 19:40, 19:41
+Benton: all correct
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 59
+Benton: 25
+Stroop: 56
+PST: 15
+VMT: 34",15,1,5,7,32,0.9411764706,Elita,Completed
+32,,,,,Blue Classroom,18,4,5,7,20,1,22,10,8,65,0.9420289855,"DST: 8:50
+Benton: 10:03
+Stroop: 29:03 
+PST: 29:40
+VMT: 30:02","DST: 9:39, 9:44, 9:51, 9:54
+Benton: all correct
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 67
+Benton: 31
+Stroop: 26
+PST: 15
+VMT: 26",20,1,6,7,38,0.9743589744,Elita,Completed
+32,,,,,Red Classroom,19,4,5,7,18,3,22,5,8,66,0.9565217391,"DST: 14:56
+Benton: 16:01
+Stroop: 42:03
+PST: 42:40
+VMT: 43:02","DST: 15:46, 15:51, 15:52
+Benton: all correct
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 59
+Benton: 23
+Stroop: 27
+PST: 15
+VMT: 31",18,3,6,7,38,0.9743589744,Elita,Completed
+32,,,,,With Teacher,20,3,5,7,21,3,22,2,8,69,0.9583333333,"DST: 12:56
+Benton: 14:03
+Stroop: 36:35
+PST: 37:11
+VMT: 37:34","DST: 13:47, 13:55
+Benton: 14:39
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 61
+Benton: 36
+Stroop: 26
+PST: 15
+VMT: 26",21,3,6,7,40,0.9523809524,Elita,Completed
+32,,,,,No Windows-narrow,18,3,8,7,20,3,22,7,6,66,0.9295774648,"DST: 20:35
+Benton: 21:41
+Stroop: 27:11
+PST: 27:49
+VMT: 28:11","DST: 21:09, 21:09, 21:23, 21:31 
+Benton: 22:09
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 59
+Benton: 29
+Stroop: 27
+PST: 16
+VMT: 33",20,3,5,7,38,0.9268292683,Elita,Completed
+32,,,,,Green Classroom,18,4,7,7,7,1,22,7,8,52,0.8125,"DST: 16:50
+Benton: 17:56
+Stroop: 40:16
+PST: 40:54
+VMT: 41:16","DST: 17:38, 17:42, 17:44, 17:45
+Benton: all correct
+Stroop: 40:20, 40:24, 40:31, 40:32, 40:36, 40:38
+PST: 41:03, 41:05
+VMT: all correct","DST: 59
+Benton: 22
+Stroop: 26
+PST: 15
+VMT: 33",13,3,6,7,25,0.7352941176,Elita,Completed
+32,,,,,No Windows-wide,18,4,8,8,18,1,22,4,7,63,0.9402985075,"DST: 22:31
+Benton: 23:34
+Stroop: 30:44
+PST: 31:26
+VMT: 31:48","DST: 23:09, 23:10, 23:10, 23:21
+Benton: all correct
+Stroop: all correct
+PST: all correct
+VMT: all correct","DST: 57
+Benton: 23
+Stroop: 31:10
+PST: 16
+VMT: 34",18,1,5,7,35,0.9459459459,Elita,Completed
+32,,,,,"No Windows-wide, bar",18,2,8,8,19,2,21,10,7,62,0.8985507246,"DST: 24:15
+Benton: 25:17
+Stroop: 32:54
+PST: 33:31
+VMT: 33:53","DST: 24:32, 24:52, 25:05, 25:08
+Benton: 25:22, 25:45
+Stroop: all correct
+PST: all correct
+VMT: 34:03","DST: 55
+Benton: 28
+Stroop: 26
+PST: 15
+VMT: 30",19,2,6,7,36,0.9230769231,Elita,Completed
+33,,,,,One Window,17,4,3,3,21,2,20,,5,64,0.9014084507,"DST: 11:06
+Benton: 12:13
+Stroop: 39:20
+PST: 39:58
+VMT: 40:20","DST: 11:48, 12:04, 12:05, 12:06
+Benton: N/A
+Stroop: N/A
+PST: N/A
+VMT: 40:39, 40:47","DST: 60
+Benton: 27
+Stroop: 26
+PST: 15
+VMT: 30",21,2,5,5,37,0.9024390244,Kyra,Completed
+33,,,,,Two Windows,17,4,4,4,24,1,22,,7,68,0.9315068493,"DST: 21:33
+Benton: 22:48
+Stroop: 41:04
+PST: 41:43
+VMT: 42:05","DST: 22:15, 22:19, 22:32, 22:36
+Benton: N/A
+Stroop: N/A
+PST: 41:52
+VMT: N/A","DST: 66
+Benton: 34
+Stroop: 26
+PST: 15
+VMT: 27",24,1,5,7,41,0.9534883721,Kyra,Completed
+33,,,,,Blue Classroom,14,3,5,5,25,2,18,,7,62,0.8266666667,"DST: 19:24
+Benton: 20:27
+Stroop: 42:46
+PST: 43:24
+VMT: 43:46","DST: 19:38, 19:52, 19:53, 19:55, 19:56, 20:10, 20:18
+Benton: 21:05
+Stroop: N/A
+PST: N/A
+VMT: 44:03, 44:11, 44:14, 44:14","DST: 55
+Benton: 38
+Stroop: 26
+PST: 15
+VMT: 30",25,2,4,5,39,0.8666666667,Kyra,Completed
+33,,,,,Red Classroom,16,4,5,5,13,1,22,,5,56,0.8484848485,"DST: 29:08
+Benton: 30:13
+Stroop: 37:36
+PST: 38:13
+VMT: 38:36","DST: 29:46, 29:57, 30:01, 30:04, 30:05
+Benton: N/A
+Stroop: 37:38, 37:39, 37:54
+PST: 38:28
+VMT: N/A","DST: 58
+Benton: 29
+Stroop: 26
+PST: 15
+VMT: 30",16,2,5,7,30,0.8333333333,Kyra,Completed
+33,,,,,With Teacher,17,3,5,5,14,1,19,,4,54,0.8181818182,"DST: 17:08
+Benton: 18:17
+Stroop: 32:11
+PST: 32:48
+VMT: 33:11","DST: 17:34, 17:36, 17:53, 18:09
+Benton: 18:49
+Stroop: 32:18, 32:34
+PST: 32:54
+VMT: 33:32, 33:41, 33:47","DST: 62
+Benton: 42
+Stroop: 36
+PST: 15
+VMT: 39",16,2,4,5,27,0.75,Kyra,Completed
+33,,,,,No Windows-narrow,15,4,4,4,25,2,22,,7,68,0.9066666667,"DST: 27:07
+Benton: 28:17
+Stroop: 46:19
+PST: 46:57
+VMT: 47:19","DST: 27:50, 28:02, 28:03, 28:04, 28:05, 28:05 
+Benton: N/A
+Stroop: N/A
+PST: N/A
+VMT: N/A","DST: 60
+Benton: 30
+Stroop: 27
+PST: 15
+VMT: 27",25,2,5,7,43,0.9555555556,Kyra,Completed
+33,,,,,Green Classroom,16,4,5,4,10,2,22,,5,54,0.84375,"DST: 23:55
+Benton: 25:08
+Stroop: 35:54
+PST: 36:32
+VMT: 36:55","DST: 24:38, 24:41, 24:53, 24:58, 24:59
+Benton: N/A
+Stroop: 36:03, 36:07, 36:08, 36:19
+PST: N/A
+VMT: N/A","DST: 65
+Benton: 26
+Stroop: 26
+PST: 15
+VMT: 26",14,2,5,7,28,0.8235294118,Kyra,Completed
+33,,,,,No Windows-wide,19,4,3,3,20,0,22,,5,65,0.9420289855,"DST: 13:03
+Benton: 14:08
+Stroop: 34:06
+PST: 34:43
+VMT: 35:10","DST: 13:40, 14:01
+Benton: N/A
+Stroop: N/A
+PST: 34:53
+VMT: N/A","DST: 59
+Benton: 30
+Stroop: 26
+PST: 15
+VMT: 26",20,1,5,7,36,0.9230769231,Kyra,Completed
+33,,,,,"No Windows-wide, bar",14,4,4,3,27,2,21,,7,68,0.8717948718,"DST: 14:57
+Benton: 16:09
+Stroop: 44:31
+PST: 45:12
+VMT: 45:37","DST: 15:36, 15:37, 15:49, 15:58, 15:59, 16:00, 16:01 
+Benton: N/A
+Stroop: N/A
+PST: 45:18
+VMT: 45:55","DST: 65
+Benton: 25
+Stroop: 27
+PST: 16
+VMT: 28",27,3,5,7,45,0.9375,Kyra,Completed
+34,,,,,One Window,15,4,2,2,18,2,21,,3,60,0.8695652174,"DST: 22:37
+Benton: 24:16
+Stroop: 45:18
+PST: 45:56
+VMT: 46:18","DST: 23:29, 23:45, 23:51, 23:57, 24:06, 24:07
+Benton: N/A
+Stroop: N/A
+PST: 46:10
+VMT: 46:59","DST: 92
+Benton: 29
+Stroop: 27
+PST: 14
+VMT: 51",18,3,5,6,35,0.8974358974,Jin,Completed
+34,,,,,Two Windows,13,4,1,1,15,3,13,,3,48,0.7164179104,"DST: 12:57
+Benton: 14:33
+Stroop: 47:26
+PST: 48:06
+VMT: 48:28","DST: 13:29, 13:31, 13:44, 13:45, 13:54, 14:05, 14:21, 14:24
+Benton: N/A
+Stroop: N/A
+PST: 48:10
+VMT: 49:18, 49:22, 49:30, 49:33, 49:35, 49:38","DST: 56
+Benton: 30
+Stroop: 26
+PST: 15
+VMT: 75",15,4,6,6,34,0.9189189189,Jin,Completed
+34,,,,,Blue Classroom,12,3,1,3,12,2,21,,2,50,0.7462686567,"DST: 27:41
+Benton: 29:10
+Stroop: 43:16
+PST: 41:54
+VMT: 42:16","DST: 28:04, 28:07, 28:27, 28:28, 28:32, 28:43, 28:54, 28:58, 28:59
+Benton: 29:16
+Stroop: 41:23, 41:24, 41:27, 41:27
+PST: 41:57
+VMT: 42:32","DST: 82
+Benton: 31
+Stroop: 27
+PST: 16
+VMT: 44",16,3,6,6,29,0.7837837838,Jin,Completed
+34,,,,,Red Classroom,14,3,1,1,6,2,16,,3,41,0.7068965517,"DST: 15:25
+Benton: 17:00
+Stroop: 36:32
+PST: 37:04
+VMT: 37:31","DST: 16:14, 16:15, 16:19, 16:39 16:43, 16:44, 16:48   
+Benton: 17:13
+Stroop: 36:45, 36:51
+PST: N/A
+VMT: 38:02, 38:07","DST: 89
+Benton: 24
+Stroop: 26 
+PST: 21
+VMT: 55",8,2,4,5,20,0.7142857143,Jin,Completed
+34,,,,,With Teacher,14,4,1,1,17,0,17,,3,52,0.7536231884,"DST: 17:47
+Benton: 19:19
+Stroop: 50:04
+PST: 50:41
+VMT: 51:05","DST: 18:15, 18:16, 18:37, 18:45, 18:56, 19:06, 19:11
+Benton: N/A
+Stroop: N/A
+PST: 50:47, 50:48, 50:52, 50:55
+VMT: 51:35, 51:47, 51:50, 52:14, 52:16","DST: 84
+Benton: 37
+Stroop: 26
+PST: 15
+VMT: 74",17,4,6,6,33,0.8461538462,Jin,Completed
+34,,,,,No Windows-narrow,12,4,2,3,18,1,22,,3,57,0.8382352941,"DST: 25:16
+Benton: 26:52
+Stroop: 43:17
+PST: 43:55
+VMT: 44:17","DST: 26:13, 26:15, 26:18, 26:29, 26:32, 26:34, 26:38, 26:43, 26:45
+Benton: N/A
+Stroop: N/A
+PST: 44:02
+VMT: ","DST: 89
+Benton: 27
+Stroop: 26
+PST: 15
+VMT: 61",18,2,5,7,35,0.9210526316,Jin,Completed
+34,,,,,Green Classroom,11,4,3,3,13,2,15,,3,45,0.6818181818,"DST: 30:18
+Benton: 32:03
+Stroop: 38:51
+PST: 39:29
+VMT: 39:51","DST: 30:52, 31:58, 31:07, 31:11, 31:16, 31: 20, 31:21, 31:24, 31:35, 31:51 
+Benton: N/A
+Stroop: 39:05, 39:15, 39:15
+PST: N/A
+VMT: 40:05, 40:34, 40:45, 40:48, 40:49, 40:50, 40:53","DST: 99
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 64",16,2,6,6,31,0.8611111111,Jin,Completed
+34,,,,,No Windows-wide,15,4,3,4,17,1,21,,3,58,0.8656716418,"DST: 33:01
+Benton: 34:17
+Stroop: 54:56
+PST: 55:31
+VMT: 55:54","DST:  33:43, 33:45, 33:55, 34:00, 34:05, 34:05 
+Benton: N/A
+Stroop: N/A
+PST: 55:45
+VMT: 56:08","DST: 69
+Benton: 27
+Stroop: 24
+PST: 16
+VMT: 57",17,2,5,7,34,0.9189189189,Jin,Completed
+34,,,,,"No Windows-wide, bar",14,4,2,2,18,1,21,,3,58,0.8656716418,"DST: 20:17
+Benton: 21:48
+Stroop: 52:45
+PST: 53:20
+VMT: 53:41","DST: 21:09, 21:20, 21:23, 21:25, 21:33, 21:34, 21:38
+Benton: N/A
+Stroop: N/A
+PST: N/A
+VMT: 54:19","DST: 83
+Benton: 30
+Stroop: 22
+PST: 15
+VMT: 44",18,1,6,6,35,0.9459459459,Jin,Completed
+35,,,,,One Window,18,4,4,3,29,2,22,3,3,75,0.9375,"DST: 14:13
+Benton: 15:16
+Stroop: 30:22
+PST: 31:00
+VMT: 31:22","DST: 14:48, 14:50, 15:00, 15:08
+Benton: 
+Stroop: 
+PST: 31:05
+VMT: ","DSP: 57
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 25",29,3,5,7,47,0.94,Nina,Completed
+35,,,,,Two Windows,20,4,5,4,24,2,22,3,3,72,0.9473684211,"DST: 10:47
+Benton: 11:52
+Stroop: 28:45
+PST: 29:22
+VMT: 29:44","DST: 11:32, 11:42, 11:43
+Benton: 
+Stroop: 28:59
+PST: 29:26
+VMT: ","DSP: 57
+Benton: 23
+Stroop: 26
+PST: 15
+VMT: 25",25,3,5,7,42,0.9130434783,Nina,Completed
+35,,,,,Blue Classroom,14,4,4,3,28,2,21,3,4,69,0.8734177215,"DST: 17:40
+Benton: 18:41
+Stroop: 37:00
+PST: 37:36
+VMT: 37:58","DST: 18:12, 18:13, 18:14, 18:26, 18:29, 18:30, 18:31, 18:33
+Benton: 
+Stroop: 37:04
+PST: 
+VMT: 38:16","DSP: 55
+Benton: 19
+Stroop: 25
+PST: 15
+VMT: 30",29,2,5,7,46,0.9387755102,Nina,Completed
+35,,,,,Red Classroom,21,4,5,4,22,1,22,3,4,70,0.9722222222,"DST: 12:34
+Benton: 13:32
+Stroop: 33:45
+PST: 34:22
+VMT: 34:45","DST: 13:25
+Benton: 
+Stroop: 
+PST: 34:26
+VMT: ","DSP: 52
+Benton: 22
+Stroop: 26
+PST: 15
+VMT: 25",22,2,6,7,40,0.9523809524,Nina,Completed
+35,,,,,With Teacher,13,4,5,4,24,2,22,3,3,65,0.8783783784,"DST: 8:50
+Benton: 10:04
+Stroop: 27:09
+PST: 27:46
+VMT: 28:08","DST: 9:23, 9:27, 9:28, 9:42, 9:50, 9:51, 9:52, 9:53, 9:55
+Benton: 
+Stroop: 
+PST: 
+VMT: ","DSP: 66
+Benton: 24
+Stroop: 26
+PST: 15
+VMT: 23",24,2,5,7,42,0.9545454545,Nina,Completed
+35,,,,,No Windows-narrow,16,4,4,3,28,3,19,4,3,70,0.8860759494,"DST: 15:55
+Benton: 17:03
+Stroop: 25:25
+PST: 26:02
+VMT: 26:24","DST: 16:15, 16:16, 16:36, 16:47, 16:54, 16:55
+Benton: 
+Stroop: 
+PST: 
+VMT: 26:42, 26:43, 26:52","DSP: 61
+Benton: 20
+Stroop: 26
+PST: 15
+VMT: 28",28,3,4,4,43,0.8775510204,Nina,Completed
+35,,,,,Green Classroom,18,4,4,4,16,1,22,4,3,61,0.884057971,"DST: 19:14
+Benton: 20:17
+Stroop: 38:41
+PST: 39:18
+VMT: 39:40","DST: 19:47, 19:48, 20:00, 20:08
+Benton: 
+Stroop: 38:45, 38:47, 38:51
+PST: 39:27
+VMT: ","DSP: 55
+Benton: 21
+Stroop: 26
+PST: 15
+VMT: 24",19,2,5,7,33,0.8461538462,Nina,Completed
+35,,,,,No Windows-wide,16,4,4,3,28,4,21,3,3,73,0.9125,"DST: 22:37
+Benton: 23:44
+Stroop: 32:00
+PST: 32:38
+VMT: 33:00","DST: 22:58, 23:08, 23:13, 23:14, 23:26, 23:32
+Benton: 
+Stroop: 
+PST: 
+VMT: 33:16","DSP: 57
+Benton: 19
+Stroop: 26
+PST: 15
+VMT: 28",28,4,4,7,47,0.94,Nina,Completed
+35,,,,,"No Windows-wide, bar",20,4,4,3,26,2,22,3,3,74,0.961038961,"DST: 20:59
+Benton: 22:00
+Stroop: 35:25
+PST: 36:01
+VMT: 36:23","DST: 21:45, 21:52
+Benton: 
+Stroop: 
+PST: 36:14
+VMT: ","DSP: 54
+Benton: 20
+Stroop: 26
+PST: 15
+VMT: 23",26,3,5,7,44,0.9361702128,Nina,Completed
+36,,,,,One Window,17,4,1,2,22,2,22,,3,67,0.9305555556,"DST: 8:26
+Benton: 9:35
+Stroop: 26:37
+PST: 27:15
+VMT: 27:38","DST: 8:46, 8:47, 9:22, 9:24, 9:26
+Benton: 
+Stroop: 
+PST: 
+VMT: ","DST: 61
+Benton: 22
+Stroop: 25
+PST: 15
+VMT: 25",22,2,6,7,41,0.9761904762,Jin,Completed
+36,,,,,Two Windows,13,3,2,2,27,2,22,,2,67,0.8481012658,"DST: 18:06
+Benton: 19:16
+Stroop: 41:14
+PST: 41:53
+VMT: 42:20","DST: 18:41, 18:42, 18:44, 18:45, 18:55, 18:59, 19:00, 19:01, 19:07
+Benton: 19:20
+Stroop: 41:20
+PST: 41:55
+VMT: ","DST: 64
+Benton: 20 
+Stroop: 26
+PST: 14
+VMT: 27",28,3,5,7,44,0.8979591837,Jin,Completed
+36,,,,,Blue Classroom,17,4,2,1,18,2,22,,3,63,0.9,"DST: 16:08
+Benton: 17:22
+Stroop 39:25
+PST: 40:02
+VMT: 40:26","DST: 16:42, 16:43, 16:58, 17:04, 17:10
+Benton: 
+Stroop: 39:30
+PST: 40:12
+VMT: ","DST: 63
+Benton: 21 
+Stroop: 26
+PST: 16
+VMT: 25",19,3,5,7,36,0.9,Jin,Completed
+36,,,,,Red Classroom,20,1,2,2,21,4,22,,2,68,0.9189189189,"DST: 14:23
+Benton: 15:19
+Stroop: 32:04
+PST: 32:43
+VMT: 33:11","DST: 15:06, 15:11
+Benton: 15:24, 15:36, 15:40
+Stroop: 32:15
+PST: 
+VMT: ","DST: 49
+Benton: 22 
+Stroop: 27
+PST: 15
+VMT: 23",22,4,5,7,38,0.8636363636,Jin,Completed
+36,,,,,With Teacher,18,3,1,1,26,4,22,,2,73,0.9358974359,"DST: 12:27
+Benton: 13:25
+Stroop: 30:16
+PST: 30:55
+VMT: 31:17","DST: 13:10, 13:13, 13:14, 13:17
+Benton: 13:54
+Stroop: 
+PST: 
+VMT: ","DST: 51
+Benton: 35 
+Stroop: 27
+PST: 15
+VMT: 25",26,4,5,7,45,0.9375,Jin,Completed
+36,,,,,No Windows-narrow,20,3,3,2,27,4,22,,2,76,0.9620253165,"DST: 23:46
+Benton: 24:49
+Stroop: 35:42
+PST: 36:20
+VMT: 36:43","DST: 24:31, 24:37
+Benton: 24:54
+Stroop: 
+PST: 
+VMT: ","DST: 55
+Benton: 22 
+Stroop: 27
+PST: 15
+VMT: 27",27,4,5,7,46,0.9387755102,Jin,Completed
+36,,,,,Green Classroom,19,4,3,2,17,3,22,,2,65,0.9154929577,"DST: 19:58
+Benton: 21:02
+Stroop: 37:39
+PST: 38:18
+VMT: 38:41","DST: 20:47, 20:48, 20:53
+Benton: 
+Stroop: 37:59, 38:01
+PST: 
+VMT: ","DST: 57
+Benton: 21 
+Stroop: 26
+PST: 15
+VMT: 25",20,3,6,7,37,0.9024390244,Jin,Completed
+36,,,,,No Windows-wide,17,3,3,2,28,3,22,,2,73,0.9125,"DST: 21:48
+Benton: 22:55
+Stroop 33:56
+PST: 34:33
+VMT: 34:55","DST: 22:23, 22:34, 22:36, 22:40, 22:46
+Benton: 23:15
+Stroop: 
+PST: 34:39
+VMT:","DST: 60
+Benton: 22 
+Stroop: 26
+PST: 15
+VMT: 23",28,4,5,7,46,0.92,Jin,Completed
+36,,,,,"No Windows-wide, bar",19,2,1,2,23,4,22,,3,70,0.9333333333,"DST: 10:25
+Benton: 11:35
+Stroop: 28:24
+PST: 29:01
+VMT: 29:25","DST: 11:14, 11:24, 11:27
+Benton: 11:51, 11:56
+Stroop: 
+PST: 
+VMT: ","DST: 63
+Benton: 22 
+Stroop: 26
+PST: 16
+VMT: 30",23,4,5,7,41,0.9111111111,Jin,Completed
